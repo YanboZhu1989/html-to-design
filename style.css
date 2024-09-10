@@ -1,2981 +1,3660 @@
-.moderncss-dev-by {
+.apple-com-by-html-to {
+  background-color: #ffffff;
   display: flex;
-  flex-direction: column;
-  min-height: 1200px;
-  align-items: flex-start;
-  padding: 8px 0px 0px;
-  position: relative;
-  background-color: var(--moderncssdevwhite-shark);
-  border-top-width: 8px;
-  border-top-style: solid;
-  border-color: var(--moderncssdevfrench-gray);
-}
-
-.moderncss-dev-by .header {
-  display: flex;
-  flex-direction: column;
-  min-height: 480px;
-  align-items: center;
+  flex-direction: row;
   justify-content: center;
-  padding: 120px 579.98px 120px 579.97px;
-  position: relative;
-  align-self: stretch;
   width: 100%;
-  flex: 0 0 auto;
-  background-color: transparent;
 }
 
-.moderncss-dev-by .container {
+.apple-com-by-html-to .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 6212.91px;
   position: relative;
-  width: 760.05px;
-  height: 263.09px;
 }
 
-.moderncss-dev-by .link {
-  display: inline-flex;
-  min-width: 108.32px;
-  align-items: center;
-  justify-content: center;
-  padding: 12.12px 15.8px 11.2px;
+.apple-com-by-html-to .overlap {
   position: absolute;
-  top: 219px;
-  left: 299px;
-  background-color: var(--moderncssdevlavender);
-  border-radius: 9.2px;
+  width: 1920px;
+  height: 6213px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgb(29, 29, 31) 0.71%, rgb(255, 255, 255) 0.71%);
 }
 
-.moderncss-dev-by .text-wrapper {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-2-medium-18-4-font-family);
-  font-weight: var(--moderncss-dev-baloo-2-medium-18-4-font-weight);
-  color: var(--moderncssdevgrape);
-  font-size: var(--moderncss-dev-baloo-2-medium-18-4-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-baloo-2-medium-18-4-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-2-medium-18-4-line-height);
-  white-space: nowrap;
-  font-style: var(--moderncss-dev-baloo-2-medium-18-4-font-style);
-}
-
-.moderncss-dev-by .heading {
+.apple-com-by-html-to .main {
   position: absolute;
-  width: 760px;
-  height: 85px;
+  width: 1920px;
+  height: 4929px;
   top: 0;
   left: 0;
 }
 
-.moderncss-dev-by .overlap-group {
-  position: relative;
-  width: 807px;
-  height: 181px;
-  top: -46px;
-  left: -46px;
-}
-
-.moderncss-dev-by .background {
+.apple-com-by-html-to .section {
   position: absolute;
-  width: 128px;
-  height: 128px;
-  top: 27px;
-  left: 27px;
-  background-color: var(--moderncssdevbaltic-sea);
-  transform: rotate(45deg);
-}
-
-.moderncss-dev-by .div {
-  position: absolute;
-  width: 90px;
-  height: 51px;
-  top: 64px;
-  left: 46px;
-  background: linear-gradient(180deg, rgb(211, 103, 193) 10%, rgb(171, 121, 214) 70%);
-  -webkit-background-clip: text !important;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-fill-color: transparent;
-  font-family: var(--moderncss-dev-kanit-extrabold-64-font-family);
-  font-weight: var(--moderncss-dev-kanit-extrabold-64-font-weight);
-  color: transparent;
-  font-size: var(--moderncss-dev-kanit-extrabold-64-font-size);
-  letter-spacing: var(--moderncss-dev-kanit-extrabold-64-letter-spacing);
-  line-height: var(--moderncss-dev-kanit-extrabold-64-line-height);
-  white-space: nowrap;
-  font-style: var(--moderncss-dev-kanit-extrabold-64-font-style);
-}
-
-.moderncss-dev-by .text-wrapper-2 {
-  position: absolute;
-  width: 670px;
-  height: 51px;
-  top: 45px;
-  left: 137px;
-  background: linear-gradient(180deg, rgb(211, 103, 193) 10%, rgb(171, 121, 214) 70%);
-  -webkit-background-clip: text !important;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-fill-color: transparent;
-  font-family: var(--moderncss-dev-kanit-extrabold-64-font-family);
-  font-weight: var(--moderncss-dev-kanit-extrabold-64-font-weight);
-  color: transparent;
-  font-size: var(--moderncss-dev-kanit-extrabold-64-font-size);
-  letter-spacing: var(--moderncss-dev-kanit-extrabold-64-letter-spacing);
-  line-height: var(--moderncss-dev-kanit-extrabold-64-line-height);
-  white-space: nowrap;
-  font-style: var(--moderncss-dev-kanit-extrabold-64-font-style);
-}
-
-.moderncss-dev-by .emphasis {
-  display: flex;
-  flex-direction: column;
-  width: 760px;
-  align-items: flex-start;
-  padding: 0px 295.61px 0.79px 90.16px;
-  position: absolute;
-  top: 105px;
-  left: 46px;
-}
-
-.moderncss-dev-by .text-wrapper-3 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-kanit-extrabold-italic-32-font-family);
-  font-weight: var(--moderncss-dev-kanit-extrabold-italic-32-font-weight);
-  font-style: var(--moderncss-dev-kanit-extrabold-italic-32-font-style);
-  color: transparent;
-  font-size: var(--moderncss-dev-kanit-extrabold-italic-32-font-size);
-  letter-spacing: var(--moderncss-dev-kanit-extrabold-italic-32-letter-spacing);
-  line-height: var(--moderncss-dev-kanit-extrabold-italic-32-line-height);
-  white-space: nowrap;
-}
-
-.moderncss-dev-by .container-2 {
-  display: flex;
-  width: 760px;
-  align-items: center;
-  justify-content: center;
-  gap: 10.8px;
-  padding: 0px 51.71px 0px 51.7px;
-  position: absolute;
-  top: 145px;
+  width: 1920px;
+  height: 292px;
+  top: 4637px;
   left: 0;
+  background-color: #ffffff;
 }
 
-.moderncss-dev-by .horizontal-divider {
-  position: relative;
-  flex: 1;
-  flex-grow: 1;
-  height: 1px;
-  background: linear-gradient(
-    180deg,
-    rgb(211, 103, 193) 10%,
-    rgb(222, 223, 64) 25%,
-    rgb(98, 203, 92) 50%,
-    rgb(0, 187, 203) 75%,
-    rgb(171, 121, 214) 90%
-  );
-}
-
-.moderncss-dev-by .container-3 {
-  display: flex;
-  flex-wrap: wrap;
-  width: 327.86px;
-  align-items: center;
-  justify-content: center;
-  gap: 0px 8px;
-  position: relative;
-}
-
-.moderncss-dev-by .a-series-by-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: center;
-  position: relative;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .a-series-by {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: "Baloo-Regular", Helvetica;
-  font-weight: 400;
-  color: var(--moderncssdevfrench-gray);
-  font-size: 21.6px;
-  text-align: center;
-  letter-spacing: 0.65px;
-  line-height: 28px;
-  white-space: nowrap;
+.apple-com-by-html-to .gallery-of-apple {
+  position: absolute;
+  width: 1920px;
+  height: 236px;
+  top: 0;
+  left: 0;
   overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 1;
-  -webkit-box-orient: vertical;
 }
 
-.moderncss-dev-by .span {
-  letter-spacing: 0.14px;
-}
-
-.moderncss-dev-by .text-wrapper-4 {
-  letter-spacing: 0.14px;
-  text-decoration: underline;
-}
-
-.moderncss-dev-by .link-follow-on {
-  position: relative;
-  width: 37.8px;
-  height: 37.8px;
-}
-
-.moderncss-dev-by .aside-margin {
-  display: flex;
-  flex-direction: column;
-  width: 1919.99px;
-  align-items: center;
-  padding: 0px 550.98px 96px;
-  position: relative;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .aside {
-  display: flex;
-  flex-direction: column;
-  width: 818.02px;
-  align-items: flex-start;
-  gap: 0.01px;
-  padding: 40px 32px;
-  position: relative;
-  flex: 0 0 auto;
-  border: 8px solid;
-  border-color: var(--moderncssdevfrench-gray);
-}
-
-.moderncss-dev-by .div-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0px 53.74px 0px 53.72px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .text-wrapper-5 {
-  position: relative;
-  align-self: stretch;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-regular-48-font-family);
-  font-weight: var(--moderncss-dev-baloo-regular-48-font-weight);
-  color: var(--moderncssdevlavender);
-  font-size: var(--moderncss-dev-baloo-regular-48-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-baloo-regular-48-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-regular-48-line-height);
-  font-style: var(--moderncss-dev-baloo-regular-48-font-style);
-}
-
-.moderncss-dev-by .container-4 {
-  display: flex;
-  height: 29.44px;
-  align-items: center;
-  justify-content: center;
-  gap: 5.68e-14px;
-  padding: 0px 56.94px 1.44px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-}
-
-.moderncss-dev-by .strong {
-  display: inline-flex;
-  align-items: flex-start;
-  justify-content: center;
-  padding: 4.19px 10.28px;
-  position: relative;
-  flex: 0 0 auto;
-  border-radius: 1920px;
-  border: 2px solid;
-  border-color: var(--moderncssdevmantis);
-}
-
-.moderncss-dev-by .text-wrapper-6 {
-  position: relative;
-  width: fit-content;
-  margin-top: -2px;
-  font-family: var(--moderncss-dev-inter-bold-15-69-font-family);
-  font-weight: var(--moderncss-dev-inter-bold-15-69-font-weight);
-  color: var(--moderncssdevmantis);
-  font-size: var(--moderncss-dev-inter-bold-15-69-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-inter-bold-15-69-letter-spacing);
-  line-height: var(--moderncss-dev-inter-bold-15-69-line-height);
-  white-space: nowrap;
-  font-style: var(--moderncss-dev-inter-bold-15-69-font-style);
-}
-
-.moderncss-dev-by .guided-practice-is {
-  position: relative;
-  width: fit-content;
-  margin-top: -1.72px;
-  font-family: "Inter", Helvetica;
-  font-weight: 400;
-  color: transparent;
-  font-size: 17.4px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: 29.4px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 0;
-  -webkit-box-orient: vertical;
-}
-
-.moderncss-dev-by .text-wrapper-7 {
-  color: #c5c5ce;
-  font-family: var(--moderncss-dev-inter-regular-17-39-font-family);
-  font-style: var(--moderncss-dev-inter-regular-17-39-font-style);
-  font-weight: var(--moderncss-dev-inter-regular-17-39-font-weight);
-  letter-spacing: var(--moderncss-dev-inter-regular-17-39-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-17-39-line-height);
-  font-size: var(--moderncss-dev-inter-regular-17-39-font-size);
-}
-
-.moderncss-dev-by .text-wrapper-8 {
-  color: #d367c1;
-  text-decoration: underline;
-  font-family: var(--moderncss-dev-inter-regular-17-39-underline-font-family);
-  font-style: var(--moderncss-dev-inter-regular-17-39-underline-font-style);
-  font-weight: var(--moderncss-dev-inter-regular-17-39-underline-font-weight);
-  letter-spacing: var(--moderncss-dev-inter-regular-17-39-underline-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-17-39-underline-line-height);
-  font-size: var(--moderncss-dev-inter-regular-17-39-underline-font-size);
-}
-
-.moderncss-dev-by .div-wrapper-2 {
-  display: flex;
-  flex-direction: column;
-  width: 1919.99px;
-  align-items: center;
-  padding: 96px 346.48px;
-  position: relative;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .main-articles-table {
-  display: flex;
-  flex-direction: column;
-  width: 1227.02px;
-  align-items: flex-start;
-  position: relative;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .list {
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  height: 5037.02px;
-}
-
-.moderncss-dev-by .item {
-  width: 283px;
-  height: 528px;
-  align-items: flex-start;
-  padding: 72px 32px;
+.apple-com-by-html-to .link {
   position: absolute;
-  top: 0;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .gradient {
-  position: absolute;
-  width: 286px;
-  height: 529px;
-  top: -1px;
-  left: -1px;
-  border-radius: 4px;
-  transform: rotate(-8deg);
-  background: linear-gradient(
-    180deg,
-    rgb(211, 103, 193) 10%,
-    rgb(222, 223, 64) 25%,
-    rgb(98, 203, 92) 50%,
-    rgb(0, 187, 203) 75%,
-    rgb(171, 121, 214) 90%
-  );
-}
-
-.moderncss-dev-by .gradient-2 {
-  height: 528px;
-  top: 0;
-  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.61%);
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .container-5 {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 16px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .container-6 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 201px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .text-wrapper-9 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-regular-32-font-family);
-  font-weight: var(--moderncss-dev-baloo-regular-32-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-baloo-regular-32-font-size);
-  letter-spacing: var(--moderncss-dev-baloo-regular-32-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-regular-32-line-height);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 0;
-  -webkit-box-orient: vertical;
-  font-style: var(--moderncss-dev-baloo-regular-32-font-style);
-}
-
-.moderncss-dev-by .providing-type-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 40.81px 0px 0px;
-  position: relative;
-  margin-right: -0.06px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .text-wrapper-10 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-2-medium-21-6-font-family);
-  font-weight: var(--moderncss-dev-baloo-2-medium-21-6-font-weight);
-  color: var(--moderncssdevlavender);
-  font-size: var(--moderncss-dev-baloo-2-medium-21-6-font-size);
-  letter-spacing: var(--moderncss-dev-baloo-2-medium-21-6-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-2-medium-21-6-line-height);
-  font-style: var(--moderncss-dev-baloo-2-medium-21-6-font-style);
-}
-
-.moderncss-dev-by .write-safer-CSS-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 264.52px;
-  align-items: flex-start;
-  position: relative;
-  margin-right: -2.25px;
-}
-
-.moderncss-dev-by .p {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: "Inter", Helvetica;
-  font-weight: 400;
-  color: var(--moderncssdevfrench-gray);
-  font-size: 15.7px;
-  letter-spacing: 0;
-  line-height: 29.4px;
-}
-
-.moderncss-dev-by .item-2 {
-  width: 283px;
-  height: 528px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 0;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-7 {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 15.99px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .container-8 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 200px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .element-modern-CSS-one-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 31.67px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .sometimes-improving-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 293.91px;
-  align-items: flex-start;
-  padding: 0px 5.42px 0px 0px;
-  position: relative;
-  margin-right: -2.67px;
-}
-
-.moderncss-dev-by .text-wrapper-11 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-15-88-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-15-88-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-15-88-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-15-88-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-15-88-line-height);
-  font-style: var(--moderncss-dev-inter-regular-15-88-font-style);
-}
-
-.moderncss-dev-by .item-3 {
-  width: 283px;
-  height: 528px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 0;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-9 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 202px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .how-custom-property-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 12.21px 0px 0px;
-  position: relative;
-  margin-right: -0.46px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .review-behaviors-to-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 264.52px;
-  align-items: flex-start;
-  padding: 0px 5.95px 0px 0px;
-  position: relative;
-  margin-right: -6.2px;
-}
-
-.moderncss-dev-by .item-4 {
-  width: 283px;
-  height: 528px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 0;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .link-2 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 14.73px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .you-ll-love-this-one-wrapper {
-  display: flex;
-  flex-direction: column;
-  width: 251px;
-  align-items: flex-start;
-  padding: 230.88px 0px;
-  position: absolute;
-  top: -24px;
-  left: 0;
-}
-
-.moderncss-dev-by .you-ll-love-this-one {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-regular-16-2-upper-font-family);
-  font-weight: var(--moderncss-dev-baloo-regular-16-2-upper-font-weight);
-  color: var(--moderncssdevwhite);
-  font-size: var(--moderncss-dev-baloo-regular-16-2-upper-font-size);
-  letter-spacing: var(--moderncss-dev-baloo-regular-16-2-upper-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-regular-16-2-upper-line-height);
-  white-space: nowrap;
-  font-style: var(--moderncss-dev-baloo-regular-16-2-upper-font-style);
-}
-
-.moderncss-dev-by .explore-modern-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 293.91px;
-  align-items: flex-start;
-  padding: 0px 11.19px 0px 0px;
-  position: relative;
-  margin-right: -3.42px;
-}
-
-.moderncss-dev-by .item-5 {
-  width: 283px;
-  height: 504px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 560px;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .gradient-3 {
-  height: 505px;
-  top: -1px;
-  border-radius: 4px;
-  background: linear-gradient(
-    180deg,
-    rgb(211, 103, 193) 10%,
-    rgb(222, 223, 64) 25%,
-    rgb(98, 203, 92) 50%,
-    rgb(0, 187, 203) 75%,
-    rgb(171, 121, 214) 90%
-  );
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .gradient-4 {
-  height: 504px;
-  top: 0;
-  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.74%);
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .container-10 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 207px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .testing-feature-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 32.28px 0px 0px;
-  position: relative;
-  margin-right: -0.53px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .how-do-you-know-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 235.13px;
-  align-items: flex-start;
-  padding: 0px 1.59px 0px 0px;
-  position: relative;
-  margin-right: -4.84px;
-}
-
-.moderncss-dev-by .text-wrapper-12 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-16-01-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-16-01-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-16-01-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-16-01-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-16-01-line-height);
-  font-style: var(--moderncss-dev-inter-regular-16-01-font-style);
-}
-
-.moderncss-dev-by .item-6 {
-  width: 283px;
-  height: 504px;
-  align-items: flex-start;
-  justify-content: center;
-  padding: 111.06px 32px;
-  position: absolute;
-  top: 560px;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .border {
-  position: absolute;
-  width: 286px;
-  height: 504px;
-  top: 0;
-  left: -1px;
-  border-radius: 3px;
-  border: 1px dashed;
-  border-color: var(--moderncssdevorchid);
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .container-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .container-11 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 281.44px;
-  align-items: flex-start;
-  position: relative;
-}
-
-.moderncss-dev-by .overlap-group-wrapper {
-  position: relative;
-  width: 218.75px;
-  height: 281.44px;
-}
-
-.moderncss-dev-by .overlap-group-2 {
-  position: relative;
-  width: 219px;
-  height: 282px;
-}
-
-.moderncss-dev-by .container-12 {
-  display: flex;
-  flex-direction: column;
-  width: 219px;
-  height: 281px;
-  align-items: center;
-  justify-content: center;
-  gap: 16px;
-  position: absolute;
+  width: 417px;
+  height: 236px;
   top: 0;
   left: 0;
 }
 
-.moderncss-dev-by .element-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: flex-start;
+.apple-com-by-html-to .overlap-group {
   position: relative;
-  flex: 0 0 auto;
-  border-radius: 2.4px;
+  height: 236px;
 }
 
-.moderncss-dev-by .element {
-  position: relative;
-  max-width: 130px;
-  width: 130px;
-  height: 100px;
-  background-image: url(./img/4b-72327160-9d-1-2c-1-6fec-1-0ddea-2ce-7-8e-9bba-0517.png);
+.apple-com-by-html-to .background {
+  position: absolute;
+  width: 417px;
+  height: 236px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/background.svg);
   background-size: cover;
   background-position: 50% 50%;
 }
 
-.moderncss-dev-by .link-margin {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  padding: 16px 0px;
+.apple-com-by-html-to .SVG-wrapper {
   position: relative;
-  flex: 1;
-  flex-grow: 1;
+  height: 236px;
+  background: linear-gradient(180deg, rgba(29, 29, 31, 0.5) 0%, rgba(0, 0, 0, 0) 50%);
 }
 
-.moderncss-dev-by .build-your-website-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 133.44px;
-  align-items: center;
-  padding: 0px 0.43px;
-  position: relative;
-  border-radius: 2.4px;
-}
-
-.moderncss-dev-by .build-your-website {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-14-88-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-14-88-font-weight);
-  color: var(--moderncssdevrobins-egg-blue);
-  font-size: var(--moderncss-dev-inter-regular-14-88-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-inter-regular-14-88-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-14-88-line-height);
-  font-style: var(--moderncss-dev-inter-regular-14-88-font-style);
-}
-
-.moderncss-dev-by .link-3 {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 34px 0px 0px;
+.apple-com-by-html-to .SVG {
   position: absolute;
-  top: 233px;
-  left: 122px;
-  border-radius: 2.16px;
+  width: 68px;
+  height: 14px;
+  top: 199px;
+  left: 334px;
 }
 
-.moderncss-dev-by .text-wrapper-13 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-13-61-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-13-61-font-weight);
-  color: var(--moderncssdevgray);
-  font-size: var(--moderncss-dev-inter-regular-13-61-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-inter-regular-13-61-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-13-61-line-height);
+.apple-com-by-html-to .text-wrapper {
+  position: absolute;
+  width: 170px;
+  height: 18px;
+  top: 197px;
+  left: 15px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: -0.22px;
+  line-height: 18px;
   white-space: nowrap;
-  font-style: var(--moderncss-dev-inter-regular-13-61-font-style);
 }
 
-.moderncss-dev-by .item-7 {
-  width: 283px;
-  height: 504px;
-  align-items: flex-start;
-  padding: 72px 32px;
+.apple-com-by-html-to .overlap-wrapper {
   position: absolute;
-  top: 560px;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-query-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 9.29px 0px 0px;
-  position: relative;
-  margin-right: -0.54px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .to-learn-more-about-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 293.91px;
-  align-items: flex-start;
-  padding: 0px 5.18px 0px 0px;
-  position: relative;
-  margin-right: -2.43px;
-}
-
-.moderncss-dev-by .text-wrapper-14 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-15-62-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-15-62-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-15-62-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-15-62-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-15-62-line-height);
-  font-style: var(--moderncss-dev-inter-regular-15-62-font-style);
-}
-
-.moderncss-dev-by .item-8 {
-  width: 283px;
-  height: 504px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 560px;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .contextual-spacing-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 1.7px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .learn-how-to-coexist-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 6.48px 0px 0px;
-  position: relative;
-  margin-right: -2.71px;
-}
-
-.moderncss-dev-by .item-9 {
-  width: 283px;
-  height: 499px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 1096px;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .gradient-5 {
-  height: 500px;
-  top: -1px;
-  border-radius: 4px;
-  background: linear-gradient(
-    180deg,
-    rgb(211, 103, 193) 10%,
-    rgb(222, 223, 64) 25%,
-    rgb(98, 203, 92) 50%,
-    rgb(0, 187, 203) 75%,
-    rgb(171, 121, 214) 90%
-  );
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .gradient-6 {
-  height: 499px;
+  width: 417px;
+  height: 236px;
   top: 0;
-  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.77%);
+  left: 432px;
+}
+
+.apple-com-by-html-to .overlap-group-wrapper {
   position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .container-13 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 16px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .link-4 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 24.83px;
-  align-items: center;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .text-wrapper-15 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-2-medium-21-6-font-family);
-  font-weight: var(--moderncss-dev-baloo-2-medium-21-6-font-weight);
-  color: var(--moderncssdevrobins-egg-blue);
-  font-size: var(--moderncss-dev-baloo-2-medium-21-6-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-baloo-2-medium-21-6-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-2-medium-21-6-line-height);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 0;
-  -webkit-box-orient: vertical;
-  font-style: var(--moderncss-dev-baloo-2-medium-21-6-font-style);
-}
-
-.moderncss-dev-by .paragraph {
-  display: inline-flex;
-  flex-direction: column;
-  height: 146.95px;
-  align-items: center;
-  padding: 0px 4.67px 0px 4.66px;
-  position: relative;
-}
-
-.moderncss-dev-by .text-wrapper-16 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: "Inter", Helvetica;
-  font-weight: 400;
-  color: var(--moderncssdevfrench-gray);
-  font-size: 15.7px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: 29.4px;
-  white-space: nowrap;
-}
-
-.moderncss-dev-by .companion-site {
-  position: relative;
-  width: fit-content;
-  margin-bottom: -0.03px;
-  margin-top: -0.03px;
-  font-family: "Inter", Helvetica;
-  font-weight: 400;
-  color: var(--moderncssdevfrench-gray);
-  font-size: 15.7px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: 29.4px;
-}
-
-.moderncss-dev-by .text-wrapper-17 {
-  font-family: "Inter", Helvetica;
-  font-weight: 400;
-  color: #c5c5ce;
-  font-size: 15.7px;
-  letter-spacing: 0;
-  line-height: 29.4px;
-}
-
-.moderncss-dev-by .text-wrapper-18 {
-  font-weight: var(--moderncss-dev-inter-bold-15-75-font-weight);
-  font-family: var(--moderncss-dev-inter-bold-15-75-font-family);
-  font-style: var(--moderncss-dev-inter-bold-15-75-font-style);
-  letter-spacing: var(--moderncss-dev-inter-bold-15-75-letter-spacing);
-  line-height: var(--moderncss-dev-inter-bold-15-75-line-height);
-  font-size: var(--moderncss-dev-inter-bold-15-75-font-size);
-}
-
-.moderncss-dev-by .link-5 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 29.44px;
-  align-items: center;
-  position: relative;
-  border-radius: 2.76px;
-}
-
-.moderncss-dev-by .text-wrapper-19 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-17-68-underline-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-17-68-underline-font-weight);
-  color: var(--moderncssdevrobins-egg-blue);
-  font-size: var(--moderncss-dev-inter-regular-17-68-underline-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-inter-regular-17-68-underline-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-17-68-underline-line-height);
-  text-decoration: underline;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 0;
-  -webkit-box-orient: vertical;
-  font-style: var(--moderncss-dev-inter-regular-17-68-underline-font-style);
-}
-
-.moderncss-dev-by .item-10 {
-  width: 283px;
-  height: 499px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 1096px;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .practical-uses-of-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 21.6px 0px 0px;
-  position: relative;
-  margin-right: -0.85px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .review-the-four-best-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 235.13px;
-  align-items: flex-start;
-  padding: 0px 5.17px 0px 0px;
-  position: relative;
-  margin-right: -0.42px;
-}
-
-.moderncss-dev-by .item-11 {
-  width: 283px;
-  height: 499px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 1096px;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-14 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 204px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .modern-CSS-upgrades-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 11.26px 0px 0px;
-  position: relative;
-  margin-right: -0.51px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .accessibility-is-a-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 264.52px;
-  align-items: flex-start;
-  padding: 0px 3.39px 0px 0px;
-  position: relative;
-  margin-right: -1.64px;
-}
-
-.moderncss-dev-by .item-12 {
-  width: 283px;
-  height: 499px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 1096px;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .developing-for-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 34.69px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .how-do-we-plan-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 1.7px 0px 0px;
-  position: relative;
-  margin-right: -3.93px;
-}
-
-.moderncss-dev-by .item-13 {
-  width: 283px;
-  height: 445px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 1627px;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .gradient-7 {
-  height: 446px;
-  top: -1px;
-  border-radius: 4px;
-  background: linear-gradient(
-    180deg,
-    rgb(211, 103, 193) 10%,
-    rgb(222, 223, 64) 25%,
-    rgb(98, 203, 92) 50%,
-    rgb(0, 187, 203) 75%,
-    rgb(171, 121, 214) 90%
-  );
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .gradient-8 {
-  height: 445px;
+  width: 417px;
+  height: 236px;
   top: 0;
-  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 3.1%);
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .guide-to-advanced-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 2.84px 0px 0px;
-  position: relative;
-  margin-right: -0.09px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .continuing-from-part-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 5.5px 0px 0px;
-  position: relative;
-  margin-right: -17.75px;
-}
-
-.moderncss-dev-by .text-wrapper-20 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-16-8-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-16-8-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-16-8-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-16-8-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-16-8-line-height);
-  font-style: var(--moderncss-dev-inter-regular-16-8-font-style);
-}
-
-.moderncss-dev-by .item-14 {
-  width: 283px;
-  height: 445px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 1627px;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .whether-you-choose-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 235.13px;
-  align-items: flex-start;
-  padding: 0px 8.25px 0px 0px;
-  position: relative;
-  margin-right: -5.5px;
-}
-
-.moderncss-dev-by .item-15 {
-  width: 283px;
-  height: 445px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 1627px;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .join-my-newsletter-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 88.17px;
-  align-items: center;
-  padding: 0px 2.5px;
-  position: relative;
-}
-
-.moderncss-dev-by .text-wrapper-21 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-15-49-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-15-49-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-15-49-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-inter-regular-15-49-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-15-49-line-height);
-  font-style: var(--moderncss-dev-inter-regular-15-49-font-style);
-}
-
-.moderncss-dev-by .link-6 {
-  display: inline-flex;
-  min-width: 94.24px;
-  height: 39.77px;
-  align-items: center;
-  justify-content: center;
-  padding: 9.81px 14px 10.98px;
-  position: relative;
-  background-color: var(--moderncssdevlavender);
-  border-radius: 8px;
-}
-
-.moderncss-dev-by .text-wrapper-22 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1.01px;
-  font-family: var(--moderncss-dev-baloo-2-medium-16-font-family);
-  font-weight: var(--moderncss-dev-baloo-2-medium-16-font-weight);
-  color: var(--moderncssdevgrape);
-  font-size: var(--moderncss-dev-baloo-2-medium-16-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-baloo-2-medium-16-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-2-medium-16-line-height);
-  white-space: nowrap;
-  font-style: var(--moderncss-dev-baloo-2-medium-16-font-style);
-}
-
-.moderncss-dev-by .item-16 {
-  width: 283px;
-  height: 445px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 1627px;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .the-CSS-methods-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 8.62px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .in-CSS-sometimes-a-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 0.84px 0px 0px;
-  position: relative;
-  margin-right: -6.07px;
-}
-
-.moderncss-dev-by .item-17 {
-  width: 283px;
-  height: 445px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 2104px;
   left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .enjoying-the-series-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 88.17px;
-  align-items: center;
-  padding: 0px 5.32px 0px 5.33px;
-  position: relative;
-}
-
-.moderncss-dev-by .link-7 {
-  display: inline-flex;
-  min-width: 94.24px;
-  height: 39.77px;
-  align-items: flex-end;
-  justify-content: center;
-  gap: 8px;
-  padding: 9.81px 14px 11.49px;
-  position: relative;
-  border-radius: 8px;
-  border: 2px solid;
-  border-color: var(--moderncssdevwhite);
-}
-
-.moderncss-dev-by .SVG {
-  position: relative;
-  width: 16px;
-  height: 16px;
-}
-
-.moderncss-dev-by .text-wrapper-23 {
-  position: relative;
-  width: fit-content;
-  margin-top: -2.53px;
-  font-family: var(--moderncss-dev-baloo-2-medium-16-font-family);
-  font-weight: var(--moderncss-dev-baloo-2-medium-16-font-weight);
-  color: var(--moderncssdevwhite);
-  font-size: var(--moderncss-dev-baloo-2-medium-16-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-baloo-2-medium-16-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-2-medium-16-line-height);
-  white-space: nowrap;
-  font-style: var(--moderncss-dev-baloo-2-medium-16-font-style);
-}
-
-.moderncss-dev-by .item-18 {
-  width: 283px;
-  height: 445px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 2104px;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-15 {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 16px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-  margin-bottom: -0.01px;
-}
-
-.moderncss-dev-by .pure-CSS-shapes-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 47.32px 0px 0px;
-  position: relative;
-  margin-right: -0.57px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .modern-CSS-and-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 235.13px;
-  align-items: flex-start;
-  padding: 0px 7.43px 0px 0px;
-  position: relative;
-  margin-right: -4.68px;
-}
-
-.moderncss-dev-by .item-19 {
-  width: 283px;
-  height: 445px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 2104px;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .custom-CSS-styles-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 11.6px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .create-custom-form-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 176.34px;
-  align-items: flex-start;
-  padding: 0px 4.12px 0px 0px;
-  position: relative;
-  margin-right: -1.37px;
-}
-
-.moderncss-dev-by .item-20 {
-  width: 283px;
-  height: 445px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 2104px;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .custom-select-styles-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 21.84px 0px 0px;
-  position: relative;
-  margin-right: -0.07px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .modern-CSS-gives-us-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 235.13px;
-  align-items: flex-start;
-  padding: 0px 4.16px 0px 0px;
-  position: relative;
-  margin-right: -2.39px;
-}
-
-.moderncss-dev-by .item-21 {
-  width: 283px;
-  height: 475px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 2581px;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .gradient-9 {
-  height: 476px;
-  top: -1px;
-  border-radius: 4px;
-  background: linear-gradient(
-    180deg,
-    rgb(211, 103, 193) 10%,
-    rgb(222, 223, 64) 25%,
-    rgb(98, 203, 92) 50%,
-    rgb(0, 187, 203) 75%,
-    rgb(171, 121, 214) 90%
-  );
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .gradient-10 {
-  height: 475px;
-  top: 0;
-  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.91%);
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .container-16 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 205px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .pure-CSS-custom-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 58.29px 0px 0px;
-  position: relative;
-  margin-right: -0.54px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .we-ll-create-custom-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 176.34px;
-  align-items: flex-start;
-  padding: 0px 7.6px 0px 0px;
-  position: relative;
-  margin-right: -10.85px;
-}
-
-.moderncss-dev-by .item-22 {
-  width: 283px;
-  height: 475px;
-  align-items: center;
-  padding: 72px 32px;
-  position: absolute;
-  top: 2581px;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .blockquote {
-  display: flex;
-  flex-direction: column;
-  max-width: 640.09px;
-  width: 218.75px;
-  align-items: center;
-  justify-content: center;
-  gap: 16px;
-  padding: 8px 24px;
-  position: relative;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .chris-c-jpg {
-  position: relative;
-  max-width: 218.75px;
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
-  background-image: url(./img/chris-c-jpg.png);
+  background-image: url(./img/background-1.svg);
   background-size: cover;
   background-position: 50% 50%;
 }
 
-.moderncss-dev-by .this-is-a-hell-of-a-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 88.17px;
-  align-items: center;
-  padding: 0px 8.35px;
-  position: relative;
+.apple-com-by-html-to .img {
+  position: absolute;
+  width: 78px;
+  height: 14px;
+  top: 199px;
+  left: 324px;
 }
 
-.moderncss-dev-by .this-is-a-hell-of-a {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-15-75-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-15-75-font-weight);
-  color: var(--moderncssdevorchid);
-  font-size: var(--moderncss-dev-inter-regular-15-75-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-inter-regular-15-75-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-15-75-line-height);
-  font-style: var(--moderncss-dev-inter-regular-15-75-font-style);
-}
-
-.moderncss-dev-by .footer {
-  display: inline-flex;
-  flex-direction: column;
-  height: 46.72px;
-  align-items: center;
-  padding: 10.98px 0px 12.7px;
-  position: relative;
-}
-
-.moderncss-dev-by .cite {
-  display: inline-flex;
-  align-items: flex-start;
-  justify-content: center;
-  position: relative;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .chris-coyier {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: "Inter", Helvetica;
-  font-weight: 400;
-  color: var(--moderncssdevwhite);
-  font-size: 13.7px;
-  text-align: center;
-  letter-spacing: 0.38px;
-  line-height: 23px;
+.apple-com-by-html-to .text-wrapper-2 {
+  position: absolute;
+  width: 120px;
+  height: 18px;
+  top: 197px;
+  left: 15px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: -0.22px;
+  line-height: 18px;
   white-space: nowrap;
+}
+
+.apple-com-by-html-to .div-wrapper {
+  position: absolute;
+  width: 417px;
+  height: 236px;
+  top: 0;
+  left: 864px;
+}
+
+.apple-com-by-html-to .background-2 {
+  position: absolute;
+  width: 417px;
+  height: 236px;
+  top: 0;
+  left: 0;
+  background-color: #ebe7e0;
+}
+
+.apple-com-by-html-to .SVG-2 {
+  position: absolute;
+  width: 59px;
+  height: 14px;
+  top: 199px;
+  left: 343px;
+}
+
+.apple-com-by-html-to .image {
+  position: absolute;
+  width: 196px;
+  height: 196px;
+  top: 20px;
+  left: 15px;
+}
+
+.apple-com-by-html-to .text-wrapper-3 {
+  position: absolute;
+  width: 109px;
+  height: 18px;
+  top: 108px;
+  left: 226px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: -0.22px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-2 {
+  position: absolute;
+  width: 417px;
+  height: 236px;
+  top: 0;
+  left: 1296px;
+}
+
+.apple-com-by-html-to .background-3 {
+  position: absolute;
+  width: 417px;
+  height: 236px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/background-2.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.apple-com-by-html-to .text-wrapper-4 {
+  position: absolute;
+  width: 185px;
+  height: 18px;
+  top: 197px;
+  left: 15px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: -0.22px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-3 {
+  position: absolute;
+  width: 417px;
+  height: 236px;
+  top: 0;
+  left: 1728px;
+}
+
+.apple-com-by-html-to .gradient-wrapper {
+  position: absolute;
+  width: 417px;
+  height: 236px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/background-3.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.apple-com-by-html-to .gradient {
+  height: 236px;
+  background: linear-gradient(180deg, rgba(29, 29, 31, 0.5) 0%, rgba(0, 0, 0, 0) 50%);
+}
+
+.apple-com-by-html-to .p {
+  position: absolute;
+  width: 265px;
+  height: 18px;
+  top: 197px;
+  left: 15px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: -0.22px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .button-play-the {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 252px;
+  left: 1880px;
+  background-color: #d2d2d7;
+  border-radius: 12px;
+}
+
+.apple-com-by-html-to .mask-group {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 6px;
+  left: 6px;
+}
+
+.apple-com-by-html-to .section-group-tv {
+  position: absolute;
+  width: 1920px;
+  height: 705px;
+  top: 3932px;
+  left: 0;
+  background-color: #ffffff;
   overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 1;
-  -webkit-box-orient: vertical;
 }
 
-.moderncss-dev-by .text-wrapper-24 {
-  font-style: italic;
-  letter-spacing: 0.05px;
-}
-
-.moderncss-dev-by .text-wrapper-25 {
-  font-style: italic;
-  letter-spacing: 0.05px;
-  text-decoration: underline;
-}
-
-.moderncss-dev-by .item-23 {
-  width: 283px;
-  height: 475px;
-  align-items: flex-start;
-  padding: 72px 32px;
+.apple-com-by-html-to .tabpanel {
   position: absolute;
-  top: 2581px;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .link-8 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 21.93px 0px 0px;
-  position: relative;
-  margin-right: -0.18px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .learn-to-create-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 176.34px;
-  align-items: flex-start;
-  padding: 0px 17.82px 0px 0px;
-  position: relative;
-  margin-right: -20.07px;
-}
-
-.moderncss-dev-by .item-24 {
-  width: 283px;
-  height: 475px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 2581px;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-17 {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 16.01px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .container-18 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 208px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .announcing-style-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 29.77px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .learn-about-style-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 176.34px;
-  align-items: flex-start;
-  padding: 0px 3.16px 0px 0px;
-  position: relative;
-  margin-right: -6.39px;
-}
-
-.moderncss-dev-by .item-25 {
-  width: 283px;
-  height: 470px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 3087px;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .gradient-11 {
-  height: 471px;
-  top: -1px;
-  border-radius: 4px;
-  background: linear-gradient(
-    180deg,
-    rgb(211, 103, 193) 10%,
-    rgb(222, 223, 64) 25%,
-    rgb(98, 203, 92) 50%,
-    rgb(0, 187, 203) 75%,
-    rgb(171, 121, 214) 90%
-  );
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .gradient-12 {
-  height: 470px;
+  width: 1265px;
+  height: 667px;
   top: 0;
-  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.94%);
+  left: 1592px;
+  background-color: #ffffff;
+}
+
+.apple-com-by-html-to .overlap-group-2 {
+  position: relative;
+  width: 1250px;
+  height: 667px;
+  left: 8px;
+}
+
+.apple-com-by-html-to .background-4 {
   position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .container-19 {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 16.01px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-  margin-bottom: -0.01px;
-}
-
-.moderncss-dev-by .element-popular-website-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 25.1px 0px 0px;
-  position: relative;
-  margin-right: -0.35px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .this-episode-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 235.13px;
-  align-items: flex-start;
-  padding: 0px 0.75px 0px 0px;
-  position: relative;
-  margin-right: -5px;
-}
-
-.moderncss-dev-by .item-26 {
-  width: 283px;
-  height: 470px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 3087px;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-20 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 206px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .element-CSS-grid-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 12.43px 0px 0px;
-  position: relative;
-  margin-right: -0.68px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .learn-three-powerful-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 4.12px 0px 0px;
-  position: relative;
-  margin-right: -8.37px;
-}
-
-.moderncss-dev-by .item-27 {
-  width: 283px;
-  height: 470px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 3087px;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .expanded-use-of-box-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 6.9px 0px 0px;
-  position: relative;
-  margin-right: -0.15px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .this-episode-will-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 8.15px 0px 0px;
-  position: relative;
-  margin-right: -11.4px;
-}
-
-.moderncss-dev-by .item-28 {
-  width: 283px;
-  height: 470px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 3087px;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .link-9 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 43.77px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .using-grid-and-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 1.27px 0px 0px;
-  position: relative;
-  margin-right: -11.5px;
-}
-
-.moderncss-dev-by .using-grid-and {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-16-27-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-16-27-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-16-27-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-16-27-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-16-27-line-height);
-  font-style: var(--moderncss-dev-inter-regular-16-27-font-style);
-}
-
-.moderncss-dev-by .item-29 {
-  width: 283px;
-  height: 470px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 3589px;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .generating-font-size-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 2.98px 0px 0px;
-  position: relative;
-  margin-right: -0.23px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .let-s-take-the-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 176.34px;
-  align-items: flex-start;
-  padding: 0px 3.93px 0px 0px;
-  position: relative;
-  margin-right: -7.18px;
-}
-
-.moderncss-dev-by .item-30 {
-  width: 283px;
-  height: 470px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 3589px;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-21 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 211px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .resource-the-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 44.84px 0px 0px;
-  position: relative;
-  margin-right: -0.09px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .this-resource-covers-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 235.13px;
-  align-items: flex-start;
-  padding: 0px 3.87px 0px 0px;
-  position: relative;
-  margin-right: -14.12px;
-}
-
-.moderncss-dev-by .text-wrapper-26 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-16-54-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-16-54-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-16-54-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-16-54-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-16-54-line-height);
-  font-style: var(--moderncss-dev-inter-regular-16-54-font-style);
-}
-
-.moderncss-dev-by .item-31 {
-  width: 283px;
-  height: 470px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 3589px;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .icon-button-CSS-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 69.18px 0px 0px;
-  position: relative;
-  margin-right: -0.43px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .this-guide-will-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 10.29px 0px 0px;
-  position: relative;
-  margin-right: -11.54px;
-}
-
-.moderncss-dev-by .item-32 {
-  width: 283px;
-  height: 470px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 3589px;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-22 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 217px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .CSS-button-styling-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 43.95px 0px 0px;
-  position: relative;
-  margin-right: -0.18px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .container-23 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 146.95px;
-  align-items: flex-start;
-  position: relative;
-  margin-right: -1.23px;
-}
-
-.moderncss-dev-by .item-33 {
-  width: 283px;
-  height: 499px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 4091px;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .solutions-to-replace-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 26.98px 0px 0px;
-  position: relative;
-  margin-right: -0.23px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .create-simplified-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 4.84px 0px 0px;
-  position: relative;
-}
-
-.moderncss-dev-by .item-34 {
-  width: 283px;
-  height: 499px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 4091px;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-24 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 220px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .CSS-only-accessible-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 13.5px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .this-technique-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 6.89px 0px 0px;
-  position: relative;
-  margin-right: -3.14px;
-}
-
-.moderncss-dev-by .item-35 {
-  width: 283px;
-  height: 499px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 4091px;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .responsive-image-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 8.76px 0px 0px;
-  position: relative;
-  margin-right: -0.01px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .container-25 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 264.52px;
-  align-items: flex-start;
-  padding: 0px 1.87px 0px 0px;
-  position: relative;
-  margin-right: -1.12px;
-}
-
-.moderncss-dev-by .item-36 {
-  width: 283px;
-  height: 499px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 4091px;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-26 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
-  left: 218px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .totally-custom-list-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 39.78px 0px 0px;
-  position: relative;
-  margin-right: -0.01px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .this-tutorial-will-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 235.13px;
-  align-items: flex-start;
-  position: relative;
-  margin-right: -2.23px;
-}
-
-.moderncss-dev-by .item-37 {
-  width: 283px;
-  height: 415px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 4622px;
-  left: 0;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .gradient-13 {
-  height: 416px;
-  top: -1px;
-  border-radius: 4px;
-  background: linear-gradient(
-    180deg,
-    rgb(211, 103, 193) 10%,
-    rgb(222, 223, 64) 25%,
-    rgb(98, 203, 92) 50%,
-    rgb(0, 187, 203) 75%,
-    rgb(171, 121, 214) 90%
-  );
-  position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
-}
-
-.moderncss-dev-by .gradient-14 {
-  height: 415px;
+  width: 1250px;
+  height: 667px;
   top: 0;
-  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 3.32%);
+  left: 0;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.apple-com-by-html-to .stream-now-bad {
   position: absolute;
-  width: 286px;
-  left: -1px;
-  transform: rotate(-8deg);
+  width: 135px;
+  height: 44px;
+  top: 587px;
+  left: 70px;
+  background-color: #f5f5f7;
+  border-radius: 980px;
+  opacity: 0;
 }
 
-.moderncss-dev-by .pure-CSS-smooth-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 37.29px 0px 0px;
-  position: relative;
-  margin-right: -0.54px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .back-to-top-links-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 205.73px;
-  align-items: flex-start;
-  padding: 0px 2.64px 0px 0px;
-  position: relative;
-}
-
-.moderncss-dev-by .back-to-top-links {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-15-49-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-15-49-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-15-49-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-15-49-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-15-49-line-height);
-  font-style: var(--moderncss-dev-inter-regular-15-49-font-style);
-}
-
-.moderncss-dev-by .item-38 {
-  width: 283px;
-  height: 415px;
-  align-items: flex-start;
-  padding: 72px 32px;
+.apple-com-by-html-to .text-wrapper-5 {
   position: absolute;
-  top: 4622px;
-  left: 315px;
-  display: flex;
-  flex-direction: column;
+  width: 91px;
+  height: 20px;
+  top: 11px;
+  left: 22px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: -0.37px;
+  line-height: 20px;
+  white-space: nowrap;
 }
 
-.moderncss-dev-by .CSS-only-full-width-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 23.35px 0px 0px;
-  position: relative;
-  margin-right: -0.6px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .let-s-look-at-how-to-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 176.34px;
-  align-items: flex-start;
-  position: relative;
-  margin-right: -16.25px;
-}
-
-.moderncss-dev-by .item-39 {
-  width: 283px;
-  height: 415px;
-  align-items: flex-start;
-  padding: 72px 32px;
+.apple-com-by-html-to .comedy-the-shady {
   position: absolute;
-  top: 4622px;
-  left: 630px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .equal-height-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 49.66px;
-  align-items: flex-start;
-  padding: 0px 2.54px 0px 0px;
-  position: relative;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .review-solutions-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 117.56px;
-  align-items: flex-start;
-  padding: 0px 1.1px 0px 0px;
-  position: relative;
-  margin-right: -6.35px;
-}
-
-.moderncss-dev-by .review-solutions {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-16-14-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-16-14-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-16-14-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-16-14-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-16-14-line-height);
-  font-style: var(--moderncss-dev-inter-regular-16-14-font-style);
-}
-
-.moderncss-dev-by .item-40 {
-  width: 283px;
-  height: 415px;
-  align-items: flex-start;
-  padding: 72px 32px;
-  position: absolute;
-  top: 4622px;
-  left: 944px;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .container-27 {
-  display: inline-flex;
-  flex-direction: column;
-  height: 51px;
-  align-items: flex-start;
-  position: absolute;
-  top: -72px;
+  width: 318px;
+  height: 24px;
+  top: 596px;
   left: 223px;
-  opacity: 0.65;
-}
-
-.moderncss-dev-by .keep-the-footer-at-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 74.48px;
-  align-items: flex-start;
-  padding: 0px 9.47px 0px 0px;
-  position: relative;
-  margin-right: -0.7px;
-  border-radius: 3.24px;
-}
-
-.moderncss-dev-by .floating-footers-can-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  height: 176.34px;
-  align-items: flex-start;
-  padding: 0px 2.22px 0px 0px;
-  position: relative;
-  margin-right: -16.45px;
-}
-
-.moderncss-dev-by .floating-footers-can {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-16-67-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-16-67-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-16-67-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-16-67-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-16-67-line-height);
-  font-style: var(--moderncss-dev-inter-regular-16-67-font-style);
-}
-
-.moderncss-dev-by .aside-2 {
-  display: flex;
-  flex-direction: column;
-  width: 1227.02px;
-  align-items: flex-start;
-  padding: 52px 0px 48px;
-  position: relative;
-  flex: 0 0 auto;
-  border-top-width: 4px;
-  border-top-style: solid;
-  border-color: var(--moderncssdevfrench-gray);
-}
-
-.moderncss-dev-by .heading-2 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0px 392.15px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .text-wrapper-27 {
-  position: relative;
-  align-self: stretch;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-regular-48-font-family);
-  font-weight: var(--moderncss-dev-baloo-regular-48-font-weight);
-  color: var(--moderncssdevorchid);
-  font-size: var(--moderncss-dev-baloo-regular-48-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-baloo-regular-48-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-regular-48-line-height);
-  font-style: var(--moderncss-dev-baloo-regular-48-font-style);
-}
-
-.moderncss-dev-by .list-2 {
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  gap: 96px;
-  padding: 48px 0px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-  margin-top: -7.67e-13px;
-}
-
-.moderncss-dev-by .item-41 {
-  position: relative;
-  align-self: stretch;
-  width: 345px;
-}
-
-.moderncss-dev-by .heading-3 {
-  display: flex;
-  width: 345px;
-  min-height: 86px;
-  align-items: center;
-  padding: 1.08px 0px 2.36px;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.moderncss-dev-by .text-wrapper-28 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-2-medium-34-4-font-family);
-  font-weight: var(--moderncss-dev-baloo-2-medium-34-4-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-baloo-2-medium-34-4-font-size);
-  letter-spacing: var(--moderncss-dev-baloo-2-medium-34-4-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-2-medium-34-4-line-height);
-  font-style: var(--moderncss-dev-baloo-2-medium-34-4-font-style);
-}
-
-.moderncss-dev-by .container-28 {
-  display: flex;
-  flex-direction: column;
-  width: 345px;
-  align-items: flex-start;
-  padding: 0px 0px 0.71px;
-  position: absolute;
-  top: 101px;
-  left: 0;
-}
-
-.moderncss-dev-by .learn-more-about {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-17-25-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-17-25-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-17-25-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-17-25-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-17-25-line-height);
-  font-style: var(--moderncss-dev-inter-regular-17-25-font-style);
-}
-
-.moderncss-dev-by .container-29 {
-  display: flex;
-  flex-wrap: wrap;
-  width: 345px;
-  align-items: center;
-  gap: 0px 8.01px;
-  position: absolute;
-  top: 265px;
-  left: 0;
-}
-
-.moderncss-dev-by .link-10 {
-  display: inline-flex;
-  min-width: 94.24px;
-  align-items: center;
-  justify-content: center;
-  padding: 10.8px 14px 10px;
-  position: relative;
-  flex: 0 0 auto;
-  background-color: var(--moderncssdevlavender);
-  border-radius: 8px;
-}
-
-.moderncss-dev-by .text-wrapper-29 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-2-medium-16-font-family);
-  font-weight: var(--moderncss-dev-baloo-2-medium-16-font-weight);
-  color: var(--moderncssdevgrape);
-  font-size: var(--moderncss-dev-baloo-2-medium-16-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-baloo-2-medium-16-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-2-medium-16-line-height);
-  white-space: nowrap;
-  font-style: var(--moderncss-dev-baloo-2-medium-16-font-style);
-}
-
-.moderncss-dev-by .link-11 {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: flex-start;
-  padding: 2.23px 0px 2.67px;
-  position: relative;
-  flex: 0 0 auto;
-  border-radius: 2.76px;
-}
-
-.moderncss-dev-by .text-wrapper-30 {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-14-46-underline-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-14-46-underline-font-weight);
-  color: var(--moderncssdevrobins-egg-blue);
-  font-size: var(--moderncss-dev-inter-regular-14-46-underline-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-14-46-underline-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-14-46-underline-line-height);
-  text-decoration: underline;
-  white-space: nowrap;
-  font-style: var(--moderncss-dev-inter-regular-14-46-underline-font-style);
-}
-
-.moderncss-dev-by .go-from-zero-to {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-17-11-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-17-11-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-17-11-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-17-11-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-17-11-line-height);
-  font-style: var(--moderncss-dev-inter-regular-17-11-font-style);
-}
-
-.moderncss-dev-by .item-42 {
-  width: 345.02px;
-  align-items: flex-start;
-  gap: 15.3px;
-  position: relative;
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-}
-
-.moderncss-dev-by .heading-4 {
-  display: flex;
-  min-height: 86px;
-  align-items: center;
-  padding: 21.72px 0px 23px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .text-wrapper-31 {
-  position: relative;
-  flex: 1;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-baloo-2-medium-34-4-font-family);
-  font-weight: var(--moderncss-dev-baloo-2-medium-34-4-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-baloo-2-medium-34-4-font-size);
-  letter-spacing: var(--moderncss-dev-baloo-2-medium-34-4-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-2-medium-34-4-line-height);
-  font-style: var(--moderncss-dev-baloo-2-medium-34-4-font-style);
-}
-
-.moderncss-dev-by .get-caught-up-with-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  padding: 0px 0px 0.71px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .get-caught-up-with {
-  position: relative;
-  align-self: stretch;
-  margin-top: -1px;
-  font-family: var(--moderncss-dev-inter-regular-16-96-font-family);
-  font-weight: var(--moderncss-dev-inter-regular-16-96-font-weight);
-  color: var(--moderncssdevfrench-gray);
-  font-size: var(--moderncss-dev-inter-regular-16-96-font-size);
-  letter-spacing: var(--moderncss-dev-inter-regular-16-96-letter-spacing);
-  line-height: var(--moderncss-dev-inter-regular-16-96-line-height);
-  font-style: var(--moderncss-dev-inter-regular-16-96-font-style);
-}
-
-.moderncss-dev-by .margin {
-  display: flex;
-  flex-direction: column;
-  min-height: 39.77px;
-  align-items: flex-start;
-  justify-content: flex-end;
-  padding: 30.14px 0px 0px;
-  position: relative;
-  flex: 1;
-  align-self: stretch;
-  width: 100%;
-  flex-grow: 1;
-}
-
-.moderncss-dev-by .link-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0px 0px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-  margin-top: -1.02px;
-}
-
-.moderncss-dev-by .footer-2 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 8px 346.5px 8px 346.48px;
-  position: relative;
-  align-self: stretch;
-  width: 100%;
-  flex: 0 0 auto;
-  background-color: var(--moderncssdevmedium-red-violet);
-}
-
-.moderncss-dev-by .container-30 {
-  display: flex;
-  flex-wrap: wrap;
-  width: 1227.02px;
-  align-items: center;
-  justify-content: center;
-  gap: 0px 16px;
-  padding: 0px 204.75px 0px 204.74px;
-  position: relative;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .link-moderncss-dev-wrapper {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0px 0px 0.53px;
-  position: relative;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .link-moderncss-dev {
-  position: relative;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: "Inter", Helvetica;
-  font-weight: 400;
-  color: var(--moderncssdevwhite);
-  font-size: 13.5px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: 23px;
-  white-space: nowrap;
-}
-
-.moderncss-dev-by .text-wrapper-32 {
-  text-decoration: underline;
-}
-
-.moderncss-dev-by .text-wrapper-33 {
-  font-family: "Inter", Helvetica;
+  text-shadow: 0px 0px 5px #00000099;
+  opacity: 0;
+  font-family: "Arial-Bold", Helvetica;
   font-weight: 400;
   color: #ffffff;
-  font-size: 13.5px;
+  font-size: 17.3px;
   letter-spacing: 0;
-  line-height: 23px;
-}
-
-.moderncss-dev-by .container-31 {
-  display: inline-flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 0px 16px;
-  position: relative;
-  flex: 0 0 auto;
-}
-
-.moderncss-dev-by .img {
-  position: relative;
-  width: 32.19px;
-  height: 32.19px;
-}
-
-.moderncss-dev-by .link-12 {
-  display: inline-flex;
-  min-width: 94.24px;
-  align-items: flex-end;
-  justify-content: center;
-  gap: 8px;
-  padding: 10.8px 14px 10px;
-  position: relative;
-  flex: 0 0 auto;
-  border-radius: 8px;
-  border: 2px solid;
-  border-color: var(--moderncssdevwhite);
-}
-
-.moderncss-dev-by .text-wrapper-34 {
-  position: relative;
-  width: fit-content;
-  margin-top: -2px;
-  font-family: var(--moderncss-dev-baloo-2-medium-16-font-family);
-  font-weight: var(--moderncss-dev-baloo-2-medium-16-font-weight);
-  color: var(--moderncssdevwhite);
-  font-size: var(--moderncss-dev-baloo-2-medium-16-font-size);
-  text-align: center;
-  letter-spacing: var(--moderncss-dev-baloo-2-medium-16-letter-spacing);
-  line-height: var(--moderncss-dev-baloo-2-medium-16-line-height);
+  line-height: 22px;
   white-space: nowrap;
-  font-style: var(--moderncss-dev-baloo-2-medium-16-font-style);
+}
+
+.apple-com-by-html-to .span {
+  font-weight: 700;
+}
+
+.apple-com-by-html-to .text-wrapper-6 {
+  font-family: "Arial-Regular", Helvetica;
+}
+
+.apple-com-by-html-to .link-4 {
+  position: absolute;
+  width: 1250px;
+  height: 667px;
+  top: 0;
+  left: 0;
+}
+
+.apple-com-by-html-to .tabpanel-2 {
+  left: -938px;
+  position: absolute;
+  width: 1265px;
+  height: 667px;
+  top: 0;
+  background-color: #ffffff;
+}
+
+.apple-com-by-html-to .overlap-2 {
+  position: relative;
+  width: 1250px;
+  height: 667px;
+  left: 8px;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+  background-image: url(./img/link-1.png);
+  background-size: 100% 100%;
+}
+
+.apple-com-by-html-to .tabpanel-3 {
+  left: 328px;
+  position: absolute;
+  width: 1265px;
+  height: 667px;
+  top: 0;
+  background-color: #ffffff;
+}
+
+.apple-com-by-html-to .stream-now-slow {
+  position: absolute;
+  width: 135px;
+  height: 44px;
+  top: 567px;
+  left: 70px;
+  background-color: #f5f5f7;
+  border-radius: 980px;
+  opacity: 1;
+}
+
+.apple-com-by-html-to .thriller-new-season {
+  position: absolute;
+  width: 184px;
+  height: 24px;
+  top: 576px;
+  left: 223px;
+  text-shadow: 0px 0px 5px #00000099;
+  opacity: 1;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19.7px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .tablist {
+  position: absolute;
+  width: 220px;
+  height: 8px;
+  top: 683px;
+  left: 850px;
+}
+
+.apple-com-by-html-to .tab-item-slow {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 7px;
+  background-color: #000000cc;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .tab-item-bad {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 29px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .tab-item-napoleon {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 51px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .tab-item-the {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 73px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .tab-item-mls {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 95px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .tab-item-presumed {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 117px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .tab-item-pachinko {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 139px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .tab-item {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 161px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .tab-item-the-2 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 183px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .tab-item-k-pop {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 205px;
+  background-color: #0000006b;
+  border-radius: 4px;
+}
+
+.apple-com-by-html-to .section-2 {
+  position: absolute;
+  width: 1896px;
+  height: 1776px;
+  top: 2156px;
+  left: 12px;
+  background-color: #ffffff;
+  border-bottom-width: 12px;
+  border-bottom-style: solid;
+}
+
+.apple-com-by-html-to .background-5 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 1184px;
+  left: 954px;
+  background-color: #f5f5f7;
+  overflow: hidden;
+}
+
+.apple-com-by-html-to .overlap-group-3 {
+  position: relative;
+  width: 1262px;
+  height: 580px;
+  left: -160px;
+  background-image: url(./img/figure.png);
+  background-size: 100% 100%;
+}
+
+.apple-com-by-html-to .heading {
+  position: absolute;
+  width: 430px;
+  height: 39px;
+  top: 58px;
+  left: 416px;
+  background-image: url(./img/heading-3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.apple-com-by-html-to .container {
+  position: absolute;
+  width: 315px;
+  height: 50px;
+  top: 107px;
+  left: 474px;
+}
+
+.apple-com-by-html-to .get-in {
+  position: absolute;
+  width: 311px;
+  height: 50px;
+  top: -1px;
+  left: 2px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #1d1d1f;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+}
+
+.apple-com-by-html-to .link-get-your {
+  position: absolute;
+  width: 145px;
+  height: 36px;
+  top: 174px;
+  left: 558px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.apple-com-by-html-to .text-wrapper-7 {
+  position: absolute;
+  width: 114px;
+  height: 16px;
+  top: 9px;
+  left: 16px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.22px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .background-6 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 1184px;
+  left: 0;
+  background-color: #f5f5f7;
+  overflow: hidden;
+}
+
+.apple-com-by-html-to .overlap-3 {
+  position: relative;
+  width: 1262px;
+  height: 580px;
+  left: -160px;
+  background-image: url(./img/figure-1.png);
+  background-size: 100% 100%;
+}
+
+.apple-com-by-html-to .heading-2 {
+  position: absolute;
+  width: 430px;
+  height: 33px;
+  top: 58px;
+  left: 416px;
+  background-image: url(./img/heading-3-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.apple-com-by-html-to .get-up-to-daily-wrapper {
+  position: absolute;
+  width: 290px;
+  height: 50px;
+  top: 100px;
+  left: 486px;
+}
+
+.apple-com-by-html-to .get-up-to-daily {
+  position: absolute;
+  width: 266px;
+  height: 50px;
+  top: -1px;
+  left: 12px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #1d1d1f;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+}
+
+.apple-com-by-html-to .link-learn-more {
+  top: 167px;
+  left: 522px;
+  position: absolute;
+  width: 104px;
+  height: 36px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.apple-com-by-html-to .text-wrapper-8 {
+  position: absolute;
+  width: 72px;
+  height: 16px;
+  top: 9px;
+  left: 16px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.22px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-apply-now-apple {
+  position: absolute;
+  width: 99px;
+  height: 36px;
+  top: 167px;
+  left: 641px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #0066cc;
+}
+
+.apple-com-by-html-to .text-wrapper-9 {
+  position: absolute;
+  width: 67px;
+  height: 16px;
+  top: 9px;
+  left: 16px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0066cc;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.22px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .background-7 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 592px;
+  left: 954px;
+  background-color: #000000;
+  overflow: hidden;
+}
+
+.apple-com-by-html-to .overlap-4 {
+  position: relative;
+  width: 1262px;
+  height: 580px;
+  left: -160px;
+  background-image: url(./img/figure-2.png);
+  background-size: 100% 100%;
+}
+
+.apple-com-by-html-to .heading-3 {
+  position: absolute;
+  width: 430px;
+  height: 53px;
+  top: 59px;
+  left: 416px;
+  background-image: url(./img/heading-3-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.apple-com-by-html-to .text-wrapper-10 {
+  position: absolute;
+  width: 236px;
+  height: 25px;
+  top: 120px;
+  left: 513px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #f5f5f7;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-learn-more-2 {
+  position: absolute;
+  width: 104px;
+  height: 36px;
+  top: 163px;
+  left: 541px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.apple-com-by-html-to .link-buy-apple-watch {
+  position: absolute;
+  width: 62px;
+  height: 36px;
+  top: 163px;
+  left: 659px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #2997ff;
+}
+
+.apple-com-by-html-to .text-wrapper-11 {
+  position: absolute;
+  width: 25px;
+  height: 16px;
+  top: 9px;
+  left: 19px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #2997ff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.22px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .background-8 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 592px;
+  left: 0;
+  background-color: #f5f5f7;
+  overflow: hidden;
+}
+
+.apple-com-by-html-to .overlap-5 {
+  position: relative;
+  width: 1262px;
+  height: 580px;
+  left: -160px;
+  background-image: url(./img/figure-3.png);
+  background-size: 100% 100%;
+}
+
+.apple-com-by-html-to .heading-4 {
+  position: absolute;
+  width: 430px;
+  height: 39px;
+  top: 59px;
+  left: 416px;
+  background-image: url(./img/heading-3-3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.apple-com-by-html-to .text-wrapper-12 {
+  position: absolute;
+  width: 172px;
+  height: 25px;
+  top: 100px;
+  left: 545px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #1d1d1f;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .text-wrapper-13 {
+  position: absolute;
+  width: 179px;
+  height: 20px;
+  top: 137px;
+  left: 542px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #6e6e73;
+  font-size: 17px;
+  text-align: center;
+  letter-spacing: -0.37px;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-learn-more-3 {
+  top: 173px;
+  left: 510px;
+  position: absolute;
+  width: 104px;
+  height: 36px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.apple-com-by-html-to .link-watch-the-film {
+  position: absolute;
+  width: 124px;
+  height: 36px;
+  top: 173px;
+  left: 628px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #0066cc;
+}
+
+.apple-com-by-html-to .text-wrapper-14 {
+  position: absolute;
+  width: 92px;
+  height: 16px;
+  top: 9px;
+  left: 16px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0066cc;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.22px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .background-9 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 0;
+  left: 954px;
+  background-color: #000000;
+  overflow: hidden;
+}
+
+.apple-com-by-html-to .overlap-6 {
+  position: relative;
+  width: 1263px;
+  height: 581px;
+  top: -1px;
+  left: -160px;
+  background-image: url(./img/figure-4.png);
+  background-size: 100% 100%;
+}
+
+.apple-com-by-html-to .heading-ipad-pro {
+  position: absolute;
+  width: 144px;
+  height: 44px;
+  top: 53px;
+  left: 560px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #f5f5f7;
+  font-size: 35.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 44px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .text-wrapper-15 {
+  position: absolute;
+  width: 339px;
+  height: 25px;
+  top: 101px;
+  left: 462px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #f5f5f7;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-learn-more-ipad {
+  position: absolute;
+  width: 104px;
+  height: 36px;
+  top: 144px;
+  left: 541px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.apple-com-by-html-to .link-buy-ipad-pro {
+  position: absolute;
+  width: 62px;
+  height: 36px;
+  top: 144px;
+  left: 660px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #2997ff;
+}
+
+.apple-com-by-html-to .background-10 {
+  position: absolute;
+  width: 942px;
+  height: 580px;
+  top: 0;
+  left: 0;
+  background-color: #f5f5f7;
+  overflow: hidden;
+}
+
+.apple-com-by-html-to .overlap-7 {
+  position: relative;
+  width: 1262px;
+  height: 580px;
+  left: -160px;
+  background-image: url(./img/figure-5.png);
+  background-size: 100% 100%;
+}
+
+.apple-com-by-html-to .heading-macbook {
+  position: absolute;
+  width: 224px;
+  height: 44px;
+  top: 52px;
+  left: 519px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #1d1d1f;
+  font-size: 36.9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 44px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .text-wrapper-16 {
+  position: absolute;
+  width: 228px;
+  height: 25px;
+  top: 100px;
+  left: 517px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #1d1d1f;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-learn-more-4 {
+  position: absolute;
+  width: 104px;
+  height: 36px;
+  top: 143px;
+  left: 541px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.apple-com-by-html-to .link-buy-macbook-air {
+  position: absolute;
+  width: 62px;
+  height: 36px;
+  top: 143px;
+  left: 659px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #0066cc;
+}
+
+.apple-com-by-html-to .text-wrapper-17 {
+  color: #0066cc;
+  position: absolute;
+  width: 25px;
+  height: 16px;
+  top: 9px;
+  left: 19px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.22px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .section-3 {
+  position: absolute;
+  width: 1920px;
+  height: 2112px;
+  top: 44px;
+  left: 0;
+  background-color: #ffffff;
+  border-bottom-width: 12px;
+  border-bottom-style: solid;
+}
+
+.apple-com-by-html-to .background-11 {
+  position: absolute;
+  width: 1920px;
+  height: 692px;
+  top: 1408px;
+  left: 0;
+  background-color: #000000;
+  overflow: hidden;
+}
+
+.apple-com-by-html-to .overlap-group-4 {
+  position: relative;
+  width: 3008px;
+  height: 692px;
+  left: -544px;
+  background-image: url(./img/figure-6.png);
+  background-size: 100% 100%;
+}
+
+.apple-com-by-html-to .heading-iphone {
+  position: absolute;
+  width: 170px;
+  height: 60px;
+  top: 54px;
+  left: 1419px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #f5f5f7;
+  font-size: 51.2px;
+  text-align: center;
+  letter-spacing: -0.28px;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .our-most-powerful-wrapper {
+  position: absolute;
+  width: 480px;
+  height: 64px;
+  top: 121px;
+  left: 1264px;
+}
+
+.apple-com-by-html-to .our-most-powerful {
+  position: absolute;
+  width: 376px;
+  height: 66px;
+  top: -2px;
+  left: 52px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #f5f5f7;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  line-height: 32px;
+}
+
+.apple-com-by-html-to .link-learn-more-5 {
+  position: absolute;
+  width: 131px;
+  height: 44px;
+  top: 204px;
+  left: 1360px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.apple-com-by-html-to .text-wrapper-18 {
+  position: absolute;
+  width: 87px;
+  height: 20px;
+  top: 11px;
+  left: 22px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 17px;
+  text-align: center;
+  letter-spacing: -0.37px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-shop-iphone {
+  position: absolute;
+  width: 141px;
+  height: 44px;
+  top: 204px;
+  left: 1508px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #2997ff;
+}
+
+.apple-com-by-html-to .text-wrapper-19 {
+  position: absolute;
+  width: 97px;
+  height: 20px;
+  top: 11px;
+  left: 22px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #2997ff;
+  font-size: 17px;
+  text-align: center;
+  letter-spacing: -0.37px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .background-12 {
+  position: absolute;
+  width: 1920px;
+  height: 692px;
+  top: 704px;
+  left: 0;
+  background-color: #f5f5f7;
+}
+
+.apple-com-by-html-to .overlap-8 {
+  position: absolute;
+  width: 451px;
+  height: 433px;
+  top: 114px;
+  left: 784px;
+}
+
+.apple-com-by-html-to .SVG-3 {
+  position: absolute;
+  width: 248px;
+  height: 41px;
+  top: 392px;
+  left: 58px;
+  object-fit: cover;
+}
+
+.apple-com-by-html-to .figure {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 380px;
+  left: 272px;
+}
+
+.apple-com-by-html-to .heading-5 {
+  position: absolute;
+  width: 346px;
+  height: 219px;
+  top: 0;
+  left: 0;
+}
+
+.apple-com-by-html-to .overlap-group-5 {
+  position: relative;
+  width: 476px;
+  height: 396px;
+  top: -24px;
+  left: -86px;
+}
+
+.apple-com-by-html-to .SVG-4 {
+  position: absolute;
+  width: 364px;
+  height: 249px;
+  top: 9px;
+  left: 77px;
+  object-fit: cover;
+}
+
+.apple-com-by-html-to .figure-2 {
+  position: absolute;
+  width: 88px;
+  height: 95px;
+  top: 2px;
+  left: 29px;
+}
+
+.apple-com-by-html-to .figure-3 {
+  position: absolute;
+  width: 161px;
+  height: 153px;
+  top: 0;
+  left: 316px;
+}
+
+.apple-com-by-html-to .figure-4 {
+  position: absolute;
+  width: 174px;
+  height: 184px;
+  top: 212px;
+  left: 0;
+}
+
+.apple-com-by-html-to .SVG-5 {
+  position: absolute;
+  width: 322px;
+  height: 140px;
+  top: 243px;
+  left: 67px;
+  object-fit: cover;
+}
+
+.apple-com-by-html-to .figure-5 {
+  position: absolute;
+  width: 104px;
+  height: 110px;
+  top: 267px;
+  left: 347px;
+}
+
+.apple-com-by-html-to .SVG-6 {
+  position: absolute;
+  width: 265px;
+  height: 51px;
+  top: 205px;
+  left: 104px;
+  object-fit: cover;
+}
+
+.apple-com-by-html-to .link-shop-now {
+  position: absolute;
+  width: 84px;
+  height: 44px;
+  top: 565px;
+  left: 918px;
+  border-radius: 980px;
+  border: 1px solid;
+  border-color: #0066cc;
+}
+
+.apple-com-by-html-to .text-wrapper-20 {
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  top: 11px;
+  left: 22px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0066cc;
+  font-size: 17px;
+  text-align: center;
+  letter-spacing: -0.37px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .background-13 {
+  position: absolute;
+  width: 1920px;
+  height: 692px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+}
+
+.apple-com-by-html-to .overlap-9 {
+  position: relative;
+  height: 692px;
+  background-image: url(./img/img-the-apple-logo-defined-by-an-outline-of-solid-white-light.png);
+  background-size: 100% 100%;
+}
+
+.apple-com-by-html-to .heading-6 {
+  position: absolute;
+  width: 1920px;
+  height: 60px;
+  top: 476px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-21 {
+  position: absolute;
+  width: 325px;
+  height: 67px;
+  top: -5px;
+  left: 797px;
+  text-shadow: 40px 4px 24px #0080d9b2;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #f5f5f7;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: -0.28px;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .text-wrapper-22 {
+  position: absolute;
+  width: 312px;
+  height: 32px;
+  top: 541px;
+  left: 804px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #f5f5f7;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-learn-more-6 {
+  position: absolute;
+  width: 131px;
+  height: 44px;
+  top: 593px;
+  left: 895px;
+  background-color: #0071e3;
+  border-radius: 980px;
+}
+
+.apple-com-by-html-to .footer {
+  position: absolute;
+  width: 1920px;
+  height: 1284px;
+  top: 4929px;
+  left: 0;
+  background-color: #f5f5f7;
+}
+
+.apple-com-by-html-to .container-2 {
+  position: relative;
+  width: 1024px;
+  height: 1284px;
+  left: 448px;
+}
+
+.apple-com-by-html-to .section-footnotes {
+  position: absolute;
+  width: 980px;
+  height: 698px;
+  top: 0;
+  left: 22px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #00000029;
+}
+
+.apple-com-by-html-to .list {
+  position: relative;
+  height: 669px;
+  top: 17px;
+}
+
+.apple-com-by-html-to .item {
+  position: absolute;
+  width: 980px;
+  height: 350px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .overlap-10 {
+  position: absolute;
+  width: 980px;
+  height: 159px;
+  top: -1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .small {
+  position: absolute;
+  width: 980px;
+  height: 158px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.apple-com-by-html-to .link-5 {
+  position: absolute;
+  width: 58px;
+  height: 14px;
+  top: 145px;
+  left: 139px;
+}
+
+.apple-com-by-html-to .text-wrapper-23 {
+  position: absolute;
+  width: 58px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .text-wrapper-24 {
+  position: absolute;
+  width: 593px;
+  height: 14px;
+  top: 144px;
+  left: 197px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-6 {
+  position: absolute;
+  width: 182px;
+  height: 14px;
+  top: 145px;
+  left: 789px;
+}
+
+.apple-com-by-html-to .text-wrapper-25 {
+  position: absolute;
+  width: 182px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .overlap-group-6 {
+  position: absolute;
+  width: 980px;
+  height: 143px;
+  top: 159px;
+  left: 0;
+}
+
+.apple-com-by-html-to .for-more-information {
+  position: absolute;
+  width: 980px;
+  height: 142px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.apple-com-by-html-to .link-7 {
+  position: absolute;
+  width: 182px;
+  height: 14px;
+  top: 129px;
+  left: 220px;
+}
+
+.apple-com-by-html-to .for-information {
+  position: absolute;
+  width: 382px;
+  height: 14px;
+  top: 128px;
+  left: 402px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-8 {
+  position: absolute;
+  width: 183px;
+  height: 14px;
+  top: 129px;
+  left: 784px;
+}
+
+.apple-com-by-html-to .text-wrapper-26 {
+  position: absolute;
+  width: 183px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .overlap-11 {
+  position: absolute;
+  width: 963px;
+  height: 47px;
+  top: 303px;
+  left: 0;
+}
+
+.apple-com-by-html-to .for-more-information-2 {
+  position: absolute;
+  width: 963px;
+  height: 46px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.apple-com-by-html-to .link-9 {
+  position: absolute;
+  width: 25px;
+  height: 14px;
+  top: 33px;
+  left: 805px;
+}
+
+.apple-com-by-html-to .text-wrapper-27 {
+  position: absolute;
+  width: 25px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .text-wrapper-28 {
+  top: 32px;
+  left: 830px;
+  position: absolute;
+  width: 4px;
+  height: 14px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .element-apple-intelligence-wrapper {
+  width: 966px;
+  height: 30px;
+  top: 363px;
+  position: absolute;
+  left: 0;
+}
+
+.apple-com-by-html-to .element-apple-intelligence {
+  position: absolute;
+  width: 966px;
+  height: 30px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.apple-com-by-html-to .element-trade-in-values-wrapper {
+  width: 980px;
+  height: 94px;
+  top: 404px;
+  position: absolute;
+  left: 0;
+}
+
+.apple-com-by-html-to .element-trade-in-values {
+  position: absolute;
+  width: 980px;
+  height: 94px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.apple-com-by-html-to .to-access-and-use-wrapper {
+  width: 980px;
+  height: 58px;
+  top: 509px;
+  position: absolute;
+  left: 0;
+}
+
+.apple-com-by-html-to .to-access-and-use {
+  position: absolute;
+  width: 960px;
+  height: 46px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.apple-com-by-html-to .item-if-you-reside {
+  position: absolute;
+  width: 629px;
+  height: 14px;
+  top: 566px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .item-2 {
+  width: 980px;
+  height: 26px;
+  top: 592px;
+  position: absolute;
+  left: 0;
+}
+
+.apple-com-by-html-to .overlap-12 {
+  position: absolute;
+  width: 537px;
+  height: 15px;
+  top: 0;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-29 {
+  position: absolute;
+  width: 354px;
+  height: 14px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-10 {
+  position: absolute;
+  width: 183px;
+  height: 14px;
+  top: 1px;
+  left: 354px;
+}
+
+.apple-com-by-html-to .text-wrapper-30 {
+  top: 0;
+  left: 537px;
+  position: absolute;
+  width: 4px;
+  height: 14px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .item-a-subscription {
+  position: absolute;
+  width: 225px;
+  height: 14px;
+  top: 618px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .item-a-subscription-2 {
+  position: absolute;
+  width: 429px;
+  height: 14px;
+  top: 643px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .navigation-apple {
+  position: absolute;
+  width: 980px;
+  height: 460px;
+  top: 698px;
+  left: 22px;
+}
+
+.apple-com-by-html-to .heading-shop-and {
+  position: absolute;
+  width: 90px;
+  height: 16px;
+  top: 19px;
+  left: 0;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-2 {
+  position: absolute;
+  width: 176px;
+  height: 272px;
+  top: 46px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link {
+  position: absolute;
+  width: 30px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-31 {
+  position: absolute;
+  width: 30px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-2 {
+  position: absolute;
+  width: 23px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-32 {
+  position: absolute;
+  width: 24px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-3 {
+  position: absolute;
+  width: 24px;
+  height: 14px;
+  top: 52px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-4 {
+  position: absolute;
+  width: 38px;
+  height: 14px;
+  top: 78px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-33 {
+  width: 38px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-5 {
+  position: absolute;
+  width: 35px;
+  height: 14px;
+  top: 103px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-34 {
+  position: absolute;
+  width: 35px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-6 {
+  position: absolute;
+  width: 34px;
+  height: 14px;
+  top: 129px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-35 {
+  position: absolute;
+  width: 34px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-7 {
+  position: absolute;
+  width: 43px;
+  height: 14px;
+  top: 155px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-36 {
+  width: 43px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .TV-home-wrapper {
+  position: absolute;
+  width: 63px;
+  height: 14px;
+  top: 180px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-37 {
+  position: absolute;
+  width: 63px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-8 {
+  position: absolute;
+  width: 35px;
+  height: 14px;
+  top: 206px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-9 {
+  position: absolute;
+  width: 67px;
+  height: 14px;
+  top: 231px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-38 {
+  position: absolute;
+  width: 67px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-10 {
+  position: absolute;
+  width: 56px;
+  height: 14px;
+  top: 257px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-39 {
+  position: absolute;
+  width: 56px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .heading-apple {
+  width: 73px;
+  top: 341px;
+  left: 0;
+  position: absolute;
+  height: 16px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-3 {
+  position: absolute;
+  width: 176px;
+  height: 93px;
+  top: 367px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-11 {
+  position: absolute;
+  width: 34px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-12 {
+  position: absolute;
+  width: 62px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-40 {
+  width: 62px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-13 {
+  position: absolute;
+  width: 55px;
+  height: 14px;
+  top: 52px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-41 {
+  width: 55px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-14 {
+  position: absolute;
+  width: 63px;
+  height: 14px;
+  top: 78px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-42 {
+  width: 64px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .heading-account {
+  position: absolute;
+  width: 48px;
+  height: 16px;
+  top: 19px;
+  left: 196px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-4 {
+  position: absolute;
+  width: 176px;
+  height: 67px;
+  top: 46px;
+  left: 196px;
+}
+
+.apple-com-by-html-to .listitem-link-15 {
+  position: absolute;
+  width: 123px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-43 {
+  position: absolute;
+  width: 123px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-16 {
+  position: absolute;
+  width: 114px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-44 {
+  width: 114px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-17 {
+  position: absolute;
+  width: 62px;
+  height: 14px;
+  top: 52px;
+  left: 0;
+}
+
+.apple-com-by-html-to .heading-7 {
+  position: absolute;
+  width: 83px;
+  height: 16px;
+  top: 136px;
+  left: 196px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-5 {
+  position: absolute;
+  width: 176px;
+  height: 221px;
+  top: 162px;
+  left: 196px;
+}
+
+.apple-com-by-html-to .listitem-link-18 {
+  position: absolute;
+  width: 58px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-45 {
+  width: 58px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-19 {
+  position: absolute;
+  width: 58px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-20 {
+  position: absolute;
+  width: 68px;
+  height: 14px;
+  top: 52px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-46 {
+  width: 68px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-21 {
+  position: absolute;
+  width: 75px;
+  height: 14px;
+  top: 78px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-47 {
+  width: 75px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-22 {
+  position: absolute;
+  width: 82px;
+  height: 14px;
+  top: 103px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-48 {
+  width: 83px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-23 {
+  position: absolute;
+  width: 73px;
+  height: 14px;
+  top: 129px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-49 {
+  width: 74px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-24 {
+  position: absolute;
+  width: 86px;
+  height: 14px;
+  top: 155px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-50 {
+  width: 87px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-25 {
+  position: absolute;
+  width: 69px;
+  height: 14px;
+  top: 180px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-51 {
+  width: 70px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-26 {
+  position: absolute;
+  width: 55px;
+  height: 14px;
+  top: 206px;
+  left: 0;
+}
+
+.apple-com-by-html-to .heading-apple-2 {
+  width: 68px;
+  top: 19px;
+  left: 392px;
+  position: absolute;
+  height: 16px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-6 {
+  position: absolute;
+  width: 176px;
+  height: 298px;
+  top: 46px;
+  left: 392px;
+}
+
+.apple-com-by-html-to .listitem-link-27 {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-28 {
+  position: absolute;
+  width: 60px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-52 {
+  position: absolute;
+  width: 61px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-29 {
+  position: absolute;
+  width: 82px;
+  height: 14px;
+  top: 52px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-30 {
+  position: absolute;
+  width: 109px;
+  height: 14px;
+  top: 78px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-53 {
+  position: absolute;
+  width: 109px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-31 {
+  position: absolute;
+  width: 68px;
+  height: 14px;
+  top: 103px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-32 {
+  position: absolute;
+  width: 91px;
+  height: 14px;
+  top: 129px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-54 {
+  width: 91px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-33 {
+  position: absolute;
+  width: 118px;
+  height: 14px;
+  top: 155px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-55 {
+  position: absolute;
+  width: 118px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-34 {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  top: 180px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-56 {
+  width: 80px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-35 {
+  position: absolute;
+  width: 53px;
+  height: 14px;
+  top: 206px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-57 {
+  position: absolute;
+  width: 54px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-36 {
+  position: absolute;
+  width: 121px;
+  height: 14px;
+  top: 231px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-58 {
+  position: absolute;
+  width: 122px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-37 {
+  position: absolute;
+  width: 71px;
+  height: 14px;
+  top: 257px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-59 {
+  position: absolute;
+  width: 71px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-38 {
+  position: absolute;
+  width: 82px;
+  height: 14px;
+  top: 283px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-60 {
+  position: absolute;
+  width: 82px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .heading-for {
+  width: 74px;
+  top: 19px;
+  font-size: 11.8px;
+  position: absolute;
+  height: 16px;
+  left: 588px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-7 {
+  position: absolute;
+  width: 176px;
+  height: 42px;
+  top: 46px;
+  left: 588px;
+}
+
+.apple-com-by-html-to .listitem-link-39 {
+  position: absolute;
+  width: 109px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-40 {
+  position: absolute;
+  width: 100px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-61 {
+  width: 100px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .heading-for-2 {
+  width: 80px;
+  top: 110px;
+  font-size: 12px;
+  position: absolute;
+  height: 16px;
+  left: 588px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-8 {
+  position: absolute;
+  width: 176px;
+  height: 67px;
+  top: 137px;
+  left: 588px;
+}
+
+.apple-com-by-html-to .listitem-link-41 {
+  position: absolute;
+  width: 114px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-62 {
+  width: 115px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-42 {
+  position: absolute;
+  width: 75px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-43 {
+  position: absolute;
+  width: 92px;
+  height: 14px;
+  top: 52px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-63 {
+  width: 93px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .heading-for-3 {
+  width: 86px;
+  top: 227px;
+  font-size: 12px;
+  position: absolute;
+  height: 16px;
+  left: 588px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-9 {
+  position: absolute;
+  width: 176px;
+  height: 109px;
+  top: 254px;
+  left: 588px;
+}
+
+.apple-com-by-html-to .listitem-link-44 {
+  position: absolute;
+  width: 108px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-45 {
+  position: absolute;
+  width: 127px;
+  height: 14px;
+  top: 52px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-64 {
+  position: absolute;
+  width: 127px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .health-records-on-wrapper {
+  position: absolute;
+  width: 167px;
+  height: 30px;
+  top: 78px;
+  left: 0;
+}
+
+.apple-com-by-html-to .health-records-on {
+  position: absolute;
+  width: 167px;
+  height: 30px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.apple-com-by-html-to .heading-for-4 {
+  width: 93px;
+  top: 385px;
+  font-size: 12px;
+  position: absolute;
+  height: 16px;
+  left: 588px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-10 {
+  position: absolute;
+  width: 176px;
+  height: 42px;
+  top: 412px;
+  left: 588px;
+}
+
+.apple-com-by-html-to .listitem-link-46 {
+  position: absolute;
+  width: 119px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-65 {
+  width: 119px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-47 {
+  position: absolute;
+  width: 167px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-66 {
+  position: absolute;
+  width: 168px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .heading-apple-3 {
+  width: 75px;
+  top: 19px;
+  left: 784px;
+  position: absolute;
+  height: 16px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-11 {
+  position: absolute;
+  width: 176px;
+  height: 170px;
+  top: 46px;
+  left: 784px;
+}
+
+.apple-com-by-html-to .listitem-link-48 {
+  position: absolute;
+  width: 69px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-67 {
+  position: absolute;
+  width: 69px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-49 {
+  position: absolute;
+  width: 55px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-50 {
+  position: absolute;
+  width: 69px;
+  height: 14px;
+  top: 52px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-51 {
+  position: absolute;
+  width: 125px;
+  height: 14px;
+  top: 78px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-68 {
+  position: absolute;
+  width: 125px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-52 {
+  position: absolute;
+  width: 40px;
+  height: 14px;
+  top: 103px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-69 {
+  position: absolute;
+  width: 41px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-53 {
+  position: absolute;
+  width: 138px;
+  height: 14px;
+  top: 129px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-70 {
+  position: absolute;
+  width: 138px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-54 {
+  position: absolute;
+  width: 73px;
+  height: 14px;
+  top: 155px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-71 {
+  position: absolute;
+  width: 73px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .heading-about {
+  position: absolute;
+  width: 72px;
+  height: 16px;
+  top: 238px;
+  left: 784px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000e0;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-12 {
+  position: absolute;
+  width: 176px;
+  height: 170px;
+  top: 265px;
+  left: 784px;
+}
+
+.apple-com-by-html-to .listitem-link-55 {
+  position: absolute;
+  width: 59px;
+  height: 14px;
+  top: 1px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-72 {
+  position: absolute;
+  width: 59px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-56 {
+  position: absolute;
+  width: 96px;
+  height: 14px;
+  top: 27px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-73 {
+  width: 97px;
+  position: absolute;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-57 {
+  position: absolute;
+  width: 116px;
+  height: 14px;
+  top: 52px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-74 {
+  position: absolute;
+  width: 117px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-58 {
+  position: absolute;
+  width: 50px;
+  height: 14px;
+  top: 78px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-75 {
+  position: absolute;
+  width: 51px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .ethics-compliance-wrapper {
+  position: absolute;
+  width: 114px;
+  height: 14px;
+  top: 103px;
+  left: 0;
+}
+
+.apple-com-by-html-to .listitem-link-59 {
+  position: absolute;
+  width: 37px;
+  height: 14px;
+  top: 129px;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-76 {
+  position: absolute;
+  width: 37px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .listitem-link-60 {
+  position: absolute;
+  width: 79px;
+  height: 14px;
+  top: 155px;
+  left: 0;
+}
+
+.apple-com-by-html-to .section-4 {
+  position: absolute;
+  width: 980px;
+  height: 126px;
+  top: 1158px;
+  left: 22px;
+}
+
+.apple-com-by-html-to .horizontal-border {
+  position: absolute;
+  width: 980px;
+  height: 36px;
+  top: 37px;
+  left: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #00000029;
+}
+
+.apple-com-by-html-to .overlap-13 {
+  position: absolute;
+  width: 219px;
+  height: 15px;
+  top: 0;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-77 {
+  position: absolute;
+  width: 111px;
+  height: 14px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-11 {
+  position: absolute;
+  width: 109px;
+  height: 14px;
+  top: 1px;
+  left: 111px;
+}
+
+.apple-com-by-html-to .text-wrapper-78 {
+  position: absolute;
+  width: 109px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0066cc;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .overlap-group-7 {
+  position: absolute;
+  width: 89px;
+  height: 15px;
+  top: 0;
+  left: 219px;
+}
+
+.apple-com-by-html-to .or {
+  position: absolute;
+  width: 18px;
+  height: 14px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-12 {
+  position: absolute;
+  width: 71px;
+  height: 14px;
+  top: 1px;
+  left: 18px;
+}
+
+.apple-com-by-html-to .text-wrapper-79 {
+  position: absolute;
+  width: 72px;
+  height: 14px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0066cc;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .near-you-or-call {
+  position: absolute;
+  width: 199px;
+  height: 14px;
+  top: 0;
+  left: 309px;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .text-wrapper-80 {
+  position: absolute;
+  width: 267px;
+  height: 16px;
+  top: 90px;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #0000008f;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .list-13 {
+  position: absolute;
+  width: 419px;
+  height: 21px;
+  top: 86px;
+  left: 297px;
+}
+
+.apple-com-by-html-to .listitem {
+  position: absolute;
+  width: 86px;
+  height: 16px;
+  top: 5px;
+  left: 0;
+}
+
+.apple-com-by-html-to .link-13 {
+  position: absolute;
+  width: 86px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-81 {
+  position: absolute;
+  width: 77px;
+  height: 14px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .vertical-divider {
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  left: 86px;
+  background-color: #0000007a;
+}
+
+.apple-com-by-html-to .listitem-2 {
+  position: absolute;
+  width: 82px;
+  height: 16px;
+  top: 5px;
+  left: 95px;
+}
+
+.apple-com-by-html-to .link-14 {
+  position: absolute;
+  width: 82px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-82 {
+  position: absolute;
+  width: 74px;
+  height: 14px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .vertical-divider-2 {
+  left: 82px;
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  background-color: #0000007a;
+}
+
+.apple-com-by-html-to .listitem-3 {
+  position: absolute;
+  width: 112px;
+  height: 16px;
+  top: 5px;
+  left: 187px;
+}
+
+.apple-com-by-html-to .link-15 {
+  position: absolute;
+  width: 112px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-83 {
+  position: absolute;
+  width: 103px;
+  height: 14px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .vertical-divider-3 {
+  left: 112px;
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  background-color: #0000007a;
+}
+
+.apple-com-by-html-to .listitem-4 {
+  position: absolute;
+  width: 39px;
+  height: 16px;
+  top: 5px;
+  left: 308px;
+}
+
+.apple-com-by-html-to .link-16 {
+  position: absolute;
+  width: 39px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.apple-com-by-html-to .text-wrapper-84 {
+  position: absolute;
+  width: 30px;
+  height: 14px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .vertical-divider-4 {
+  left: 39px;
+  position: absolute;
+  width: 1px;
+  height: 10px;
+  top: 3px;
+  background-color: #0000007a;
+}
+
+.apple-com-by-html-to .listitem-link-61 {
+  position: absolute;
+  width: 58px;
+  height: 16px;
+  top: 5px;
+  left: 356px;
+}
+
+.apple-com-by-html-to .text-wrapper-85 {
+  position: absolute;
+  width: 49px;
+  height: 14px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .link-united-states {
+  position: absolute;
+  width: 75px;
+  height: 16px;
+  top: 91px;
+  left: 905px;
+}
+
+.apple-com-by-html-to .text-wrapper-86 {
+  position: absolute;
+  width: 75px;
+  height: 14px;
+  top: 0;
+  left: 0;
+  font-family: "Arial-Narrow", Helvetica;
+  font-weight: 400;
+  color: #000000b8;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.apple-com-by-html-to .nav-global {
+  position: fixed;
+  width: 1920px;
+  height: 44px;
+  top: 0;
+  left: 0;
 }
