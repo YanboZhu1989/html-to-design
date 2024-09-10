@@ -1,0 +1,24 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Baloo+2:var(--moderncss-dev-baloo-2-medium-16-font-weight),var(--moderncss-dev-baloo-2-medium-18-4-font-weight),var(--moderncss-dev-baloo-2-medium-34-4-font-weight),var(--moderncss-dev-baloo-2-medium-21-6-font-weight)|Kanit:var(--moderncss-dev-kanit-extrabold-64-font-weight),var(--moderncss-dev-kanit-extrabold-italic-32-font-weight),italic|Inter:var(--moderncss-dev-inter-regular-16-01-font-weight),var(--moderncss-dev-inter-regular-15-75-font-weight),var(--moderncss-dev-inter-bold-15-69-font-weight),var(--moderncss-dev-inter-regular-16-96-font-weight),var(--moderncss-dev-inter-regular-16-67-font-weight),var(--moderncss-dev-inter-regular-17-25-font-weight),var(--moderncss-dev-inter-regular-15-62-font-weight),var(--moderncss-dev-inter-regular-16-8-font-weight),var(--moderncss-dev-inter-regular-15-49-font-weight),400,var(--moderncss-dev-inter-regular-14-88-font-weight),var(--moderncss-dev-inter-regular-17-39-underline-font-weight),var(--moderncss-dev-inter-regular-17-68-underline-font-weight),var(--moderncss-dev-inter-regular-16-54-font-weight),var(--moderncss-dev-inter-regular-17-39-font-weight),var(--moderncss-dev-inter-regular-17-11-font-weight),var(--moderncss-dev-inter-regular-16-27-font-weight),var(--moderncss-dev-inter-regular-15-88-font-weight),var(--moderncss-dev-inter-regular-16-14-font-weight),var(--moderncss-dev-inter-bold-15-75-font-weight),var(--moderncss-dev-inter-regular-14-46-underline-font-weight),var(--moderncss-dev-inter-regular-13-61-font-weight)");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@font-face {
+  font-family: "Baloo-Regular";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/609d7f7ebab25d8cc352ffa1/fonts/baloo2-medium.ttf")
+    format("truetype");
+}

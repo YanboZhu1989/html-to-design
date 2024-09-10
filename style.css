@@ -1,0 +1,2981 @@
+.moderncss-dev-by {
+  display: flex;
+  flex-direction: column;
+  min-height: 1200px;
+  align-items: flex-start;
+  padding: 8px 0px 0px;
+  position: relative;
+  background-color: var(--moderncssdevwhite-shark);
+  border-top-width: 8px;
+  border-top-style: solid;
+  border-color: var(--moderncssdevfrench-gray);
+}
+
+.moderncss-dev-by .header {
+  display: flex;
+  flex-direction: column;
+  min-height: 480px;
+  align-items: center;
+  justify-content: center;
+  padding: 120px 579.98px 120px 579.97px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: transparent;
+}
+
+.moderncss-dev-by .container {
+  position: relative;
+  width: 760.05px;
+  height: 263.09px;
+}
+
+.moderncss-dev-by .link {
+  display: inline-flex;
+  min-width: 108.32px;
+  align-items: center;
+  justify-content: center;
+  padding: 12.12px 15.8px 11.2px;
+  position: absolute;
+  top: 219px;
+  left: 299px;
+  background-color: var(--moderncssdevlavender);
+  border-radius: 9.2px;
+}
+
+.moderncss-dev-by .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-2-medium-18-4-font-family);
+  font-weight: var(--moderncss-dev-baloo-2-medium-18-4-font-weight);
+  color: var(--moderncssdevgrape);
+  font-size: var(--moderncss-dev-baloo-2-medium-18-4-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-baloo-2-medium-18-4-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-2-medium-18-4-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-baloo-2-medium-18-4-font-style);
+}
+
+.moderncss-dev-by .heading {
+  position: absolute;
+  width: 760px;
+  height: 85px;
+  top: 0;
+  left: 0;
+}
+
+.moderncss-dev-by .overlap-group {
+  position: relative;
+  width: 807px;
+  height: 181px;
+  top: -46px;
+  left: -46px;
+}
+
+.moderncss-dev-by .background {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 27px;
+  left: 27px;
+  background-color: var(--moderncssdevbaltic-sea);
+  transform: rotate(45deg);
+}
+
+.moderncss-dev-by .div {
+  position: absolute;
+  width: 90px;
+  height: 51px;
+  top: 64px;
+  left: 46px;
+  background: linear-gradient(180deg, rgb(211, 103, 193) 10%, rgb(171, 121, 214) 70%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: var(--moderncss-dev-kanit-extrabold-64-font-family);
+  font-weight: var(--moderncss-dev-kanit-extrabold-64-font-weight);
+  color: transparent;
+  font-size: var(--moderncss-dev-kanit-extrabold-64-font-size);
+  letter-spacing: var(--moderncss-dev-kanit-extrabold-64-letter-spacing);
+  line-height: var(--moderncss-dev-kanit-extrabold-64-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-kanit-extrabold-64-font-style);
+}
+
+.moderncss-dev-by .text-wrapper-2 {
+  position: absolute;
+  width: 670px;
+  height: 51px;
+  top: 45px;
+  left: 137px;
+  background: linear-gradient(180deg, rgb(211, 103, 193) 10%, rgb(171, 121, 214) 70%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: var(--moderncss-dev-kanit-extrabold-64-font-family);
+  font-weight: var(--moderncss-dev-kanit-extrabold-64-font-weight);
+  color: transparent;
+  font-size: var(--moderncss-dev-kanit-extrabold-64-font-size);
+  letter-spacing: var(--moderncss-dev-kanit-extrabold-64-letter-spacing);
+  line-height: var(--moderncss-dev-kanit-extrabold-64-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-kanit-extrabold-64-font-style);
+}
+
+.moderncss-dev-by .emphasis {
+  display: flex;
+  flex-direction: column;
+  width: 760px;
+  align-items: flex-start;
+  padding: 0px 295.61px 0.79px 90.16px;
+  position: absolute;
+  top: 105px;
+  left: 46px;
+}
+
+.moderncss-dev-by .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-kanit-extrabold-italic-32-font-family);
+  font-weight: var(--moderncss-dev-kanit-extrabold-italic-32-font-weight);
+  font-style: var(--moderncss-dev-kanit-extrabold-italic-32-font-style);
+  color: transparent;
+  font-size: var(--moderncss-dev-kanit-extrabold-italic-32-font-size);
+  letter-spacing: var(--moderncss-dev-kanit-extrabold-italic-32-letter-spacing);
+  line-height: var(--moderncss-dev-kanit-extrabold-italic-32-line-height);
+  white-space: nowrap;
+}
+
+.moderncss-dev-by .container-2 {
+  display: flex;
+  width: 760px;
+  align-items: center;
+  justify-content: center;
+  gap: 10.8px;
+  padding: 0px 51.71px 0px 51.7px;
+  position: absolute;
+  top: 145px;
+  left: 0;
+}
+
+.moderncss-dev-by .horizontal-divider {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 1px;
+  background: linear-gradient(
+    180deg,
+    rgb(211, 103, 193) 10%,
+    rgb(222, 223, 64) 25%,
+    rgb(98, 203, 92) 50%,
+    rgb(0, 187, 203) 75%,
+    rgb(171, 121, 214) 90%
+  );
+}
+
+.moderncss-dev-by .container-3 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 327.86px;
+  align-items: center;
+  justify-content: center;
+  gap: 0px 8px;
+  position: relative;
+}
+
+.moderncss-dev-by .a-series-by-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .a-series-by {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Baloo-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--moderncssdevfrench-gray);
+  font-size: 21.6px;
+  text-align: center;
+  letter-spacing: 0.65px;
+  line-height: 28px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.moderncss-dev-by .span {
+  letter-spacing: 0.14px;
+}
+
+.moderncss-dev-by .text-wrapper-4 {
+  letter-spacing: 0.14px;
+  text-decoration: underline;
+}
+
+.moderncss-dev-by .link-follow-on {
+  position: relative;
+  width: 37.8px;
+  height: 37.8px;
+}
+
+.moderncss-dev-by .aside-margin {
+  display: flex;
+  flex-direction: column;
+  width: 1919.99px;
+  align-items: center;
+  padding: 0px 550.98px 96px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .aside {
+  display: flex;
+  flex-direction: column;
+  width: 818.02px;
+  align-items: flex-start;
+  gap: 0.01px;
+  padding: 40px 32px;
+  position: relative;
+  flex: 0 0 auto;
+  border: 8px solid;
+  border-color: var(--moderncssdevfrench-gray);
+}
+
+.moderncss-dev-by .div-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 53.74px 0px 53.72px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-regular-48-font-family);
+  font-weight: var(--moderncss-dev-baloo-regular-48-font-weight);
+  color: var(--moderncssdevlavender);
+  font-size: var(--moderncss-dev-baloo-regular-48-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-baloo-regular-48-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-regular-48-line-height);
+  font-style: var(--moderncss-dev-baloo-regular-48-font-style);
+}
+
+.moderncss-dev-by .container-4 {
+  display: flex;
+  height: 29.44px;
+  align-items: center;
+  justify-content: center;
+  gap: 5.68e-14px;
+  padding: 0px 56.94px 1.44px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.moderncss-dev-by .strong {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 4.19px 10.28px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 1920px;
+  border: 2px solid;
+  border-color: var(--moderncssdevmantis);
+}
+
+.moderncss-dev-by .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -2px;
+  font-family: var(--moderncss-dev-inter-bold-15-69-font-family);
+  font-weight: var(--moderncss-dev-inter-bold-15-69-font-weight);
+  color: var(--moderncssdevmantis);
+  font-size: var(--moderncss-dev-inter-bold-15-69-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-inter-bold-15-69-letter-spacing);
+  line-height: var(--moderncss-dev-inter-bold-15-69-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-inter-bold-15-69-font-style);
+}
+
+.moderncss-dev-by .guided-practice-is {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.72px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 17.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 29.4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 0;
+  -webkit-box-orient: vertical;
+}
+
+.moderncss-dev-by .text-wrapper-7 {
+  color: #c5c5ce;
+  font-family: var(--moderncss-dev-inter-regular-17-39-font-family);
+  font-style: var(--moderncss-dev-inter-regular-17-39-font-style);
+  font-weight: var(--moderncss-dev-inter-regular-17-39-font-weight);
+  letter-spacing: var(--moderncss-dev-inter-regular-17-39-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-17-39-line-height);
+  font-size: var(--moderncss-dev-inter-regular-17-39-font-size);
+}
+
+.moderncss-dev-by .text-wrapper-8 {
+  color: #d367c1;
+  text-decoration: underline;
+  font-family: var(--moderncss-dev-inter-regular-17-39-underline-font-family);
+  font-style: var(--moderncss-dev-inter-regular-17-39-underline-font-style);
+  font-weight: var(--moderncss-dev-inter-regular-17-39-underline-font-weight);
+  letter-spacing: var(--moderncss-dev-inter-regular-17-39-underline-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-17-39-underline-line-height);
+  font-size: var(--moderncss-dev-inter-regular-17-39-underline-font-size);
+}
+
+.moderncss-dev-by .div-wrapper-2 {
+  display: flex;
+  flex-direction: column;
+  width: 1919.99px;
+  align-items: center;
+  padding: 96px 346.48px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .main-articles-table {
+  display: flex;
+  flex-direction: column;
+  width: 1227.02px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .list {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 5037.02px;
+}
+
+.moderncss-dev-by .item {
+  width: 283px;
+  height: 528px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .gradient {
+  position: absolute;
+  width: 286px;
+  height: 529px;
+  top: -1px;
+  left: -1px;
+  border-radius: 4px;
+  transform: rotate(-8deg);
+  background: linear-gradient(
+    180deg,
+    rgb(211, 103, 193) 10%,
+    rgb(222, 223, 64) 25%,
+    rgb(98, 203, 92) 50%,
+    rgb(0, 187, 203) 75%,
+    rgb(171, 121, 214) 90%
+  );
+}
+
+.moderncss-dev-by .gradient-2 {
+  height: 528px;
+  top: 0;
+  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.61%);
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .container-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .container-6 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 201px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-regular-32-font-family);
+  font-weight: var(--moderncss-dev-baloo-regular-32-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-baloo-regular-32-font-size);
+  letter-spacing: var(--moderncss-dev-baloo-regular-32-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-regular-32-line-height);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 0;
+  -webkit-box-orient: vertical;
+  font-style: var(--moderncss-dev-baloo-regular-32-font-style);
+}
+
+.moderncss-dev-by .providing-type-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 40.81px 0px 0px;
+  position: relative;
+  margin-right: -0.06px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-2-medium-21-6-font-family);
+  font-weight: var(--moderncss-dev-baloo-2-medium-21-6-font-weight);
+  color: var(--moderncssdevlavender);
+  font-size: var(--moderncss-dev-baloo-2-medium-21-6-font-size);
+  letter-spacing: var(--moderncss-dev-baloo-2-medium-21-6-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-2-medium-21-6-line-height);
+  font-style: var(--moderncss-dev-baloo-2-medium-21-6-font-style);
+}
+
+.moderncss-dev-by .write-safer-CSS-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 264.52px;
+  align-items: flex-start;
+  position: relative;
+  margin-right: -2.25px;
+}
+
+.moderncss-dev-by .p {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--moderncssdevfrench-gray);
+  font-size: 15.7px;
+  letter-spacing: 0;
+  line-height: 29.4px;
+}
+
+.moderncss-dev-by .item-2 {
+  width: 283px;
+  height: 528px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 0;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 15.99px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .container-8 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 200px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .element-modern-CSS-one-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 31.67px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .sometimes-improving-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 293.91px;
+  align-items: flex-start;
+  padding: 0px 5.42px 0px 0px;
+  position: relative;
+  margin-right: -2.67px;
+}
+
+.moderncss-dev-by .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-15-88-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-15-88-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-15-88-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-15-88-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-15-88-line-height);
+  font-style: var(--moderncss-dev-inter-regular-15-88-font-style);
+}
+
+.moderncss-dev-by .item-3 {
+  width: 283px;
+  height: 528px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 0;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-9 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 202px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .how-custom-property-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 12.21px 0px 0px;
+  position: relative;
+  margin-right: -0.46px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .review-behaviors-to-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 264.52px;
+  align-items: flex-start;
+  padding: 0px 5.95px 0px 0px;
+  position: relative;
+  margin-right: -6.2px;
+}
+
+.moderncss-dev-by .item-4 {
+  width: 283px;
+  height: 528px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 0;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .link-2 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 14.73px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .you-ll-love-this-one-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 251px;
+  align-items: flex-start;
+  padding: 230.88px 0px;
+  position: absolute;
+  top: -24px;
+  left: 0;
+}
+
+.moderncss-dev-by .you-ll-love-this-one {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-regular-16-2-upper-font-family);
+  font-weight: var(--moderncss-dev-baloo-regular-16-2-upper-font-weight);
+  color: var(--moderncssdevwhite);
+  font-size: var(--moderncss-dev-baloo-regular-16-2-upper-font-size);
+  letter-spacing: var(--moderncss-dev-baloo-regular-16-2-upper-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-regular-16-2-upper-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-baloo-regular-16-2-upper-font-style);
+}
+
+.moderncss-dev-by .explore-modern-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 293.91px;
+  align-items: flex-start;
+  padding: 0px 11.19px 0px 0px;
+  position: relative;
+  margin-right: -3.42px;
+}
+
+.moderncss-dev-by .item-5 {
+  width: 283px;
+  height: 504px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 560px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .gradient-3 {
+  height: 505px;
+  top: -1px;
+  border-radius: 4px;
+  background: linear-gradient(
+    180deg,
+    rgb(211, 103, 193) 10%,
+    rgb(222, 223, 64) 25%,
+    rgb(98, 203, 92) 50%,
+    rgb(0, 187, 203) 75%,
+    rgb(171, 121, 214) 90%
+  );
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .gradient-4 {
+  height: 504px;
+  top: 0;
+  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.74%);
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .container-10 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 207px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .testing-feature-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 32.28px 0px 0px;
+  position: relative;
+  margin-right: -0.53px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .how-do-you-know-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 235.13px;
+  align-items: flex-start;
+  padding: 0px 1.59px 0px 0px;
+  position: relative;
+  margin-right: -4.84px;
+}
+
+.moderncss-dev-by .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-16-01-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-16-01-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-16-01-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-16-01-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-16-01-line-height);
+  font-style: var(--moderncss-dev-inter-regular-16-01-font-style);
+}
+
+.moderncss-dev-by .item-6 {
+  width: 283px;
+  height: 504px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 111.06px 32px;
+  position: absolute;
+  top: 560px;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .border {
+  position: absolute;
+  width: 286px;
+  height: 504px;
+  top: 0;
+  left: -1px;
+  border-radius: 3px;
+  border: 1px dashed;
+  border-color: var(--moderncssdevorchid);
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .container-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .container-11 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 281.44px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.moderncss-dev-by .overlap-group-wrapper {
+  position: relative;
+  width: 218.75px;
+  height: 281.44px;
+}
+
+.moderncss-dev-by .overlap-group-2 {
+  position: relative;
+  width: 219px;
+  height: 282px;
+}
+
+.moderncss-dev-by .container-12 {
+  display: flex;
+  flex-direction: column;
+  width: 219px;
+  height: 281px;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.moderncss-dev-by .element-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 2.4px;
+}
+
+.moderncss-dev-by .element {
+  position: relative;
+  max-width: 130px;
+  width: 130px;
+  height: 100px;
+  background-image: url(./img/4b-72327160-9d-1-2c-1-6fec-1-0ddea-2ce-7-8e-9bba-0517.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.moderncss-dev-by .link-margin {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 0px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.moderncss-dev-by .build-your-website-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 133.44px;
+  align-items: center;
+  padding: 0px 0.43px;
+  position: relative;
+  border-radius: 2.4px;
+}
+
+.moderncss-dev-by .build-your-website {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-14-88-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-14-88-font-weight);
+  color: var(--moderncssdevrobins-egg-blue);
+  font-size: var(--moderncss-dev-inter-regular-14-88-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-inter-regular-14-88-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-14-88-line-height);
+  font-style: var(--moderncss-dev-inter-regular-14-88-font-style);
+}
+
+.moderncss-dev-by .link-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 34px 0px 0px;
+  position: absolute;
+  top: 233px;
+  left: 122px;
+  border-radius: 2.16px;
+}
+
+.moderncss-dev-by .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-13-61-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-13-61-font-weight);
+  color: var(--moderncssdevgray);
+  font-size: var(--moderncss-dev-inter-regular-13-61-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-inter-regular-13-61-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-13-61-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-inter-regular-13-61-font-style);
+}
+
+.moderncss-dev-by .item-7 {
+  width: 283px;
+  height: 504px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 560px;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-query-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 9.29px 0px 0px;
+  position: relative;
+  margin-right: -0.54px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .to-learn-more-about-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 293.91px;
+  align-items: flex-start;
+  padding: 0px 5.18px 0px 0px;
+  position: relative;
+  margin-right: -2.43px;
+}
+
+.moderncss-dev-by .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-15-62-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-15-62-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-15-62-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-15-62-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-15-62-line-height);
+  font-style: var(--moderncss-dev-inter-regular-15-62-font-style);
+}
+
+.moderncss-dev-by .item-8 {
+  width: 283px;
+  height: 504px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 560px;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .contextual-spacing-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 1.7px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .learn-how-to-coexist-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 6.48px 0px 0px;
+  position: relative;
+  margin-right: -2.71px;
+}
+
+.moderncss-dev-by .item-9 {
+  width: 283px;
+  height: 499px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 1096px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .gradient-5 {
+  height: 500px;
+  top: -1px;
+  border-radius: 4px;
+  background: linear-gradient(
+    180deg,
+    rgb(211, 103, 193) 10%,
+    rgb(222, 223, 64) 25%,
+    rgb(98, 203, 92) 50%,
+    rgb(0, 187, 203) 75%,
+    rgb(171, 121, 214) 90%
+  );
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .gradient-6 {
+  height: 499px;
+  top: 0;
+  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.77%);
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .container-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .link-4 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 24.83px;
+  align-items: center;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-2-medium-21-6-font-family);
+  font-weight: var(--moderncss-dev-baloo-2-medium-21-6-font-weight);
+  color: var(--moderncssdevrobins-egg-blue);
+  font-size: var(--moderncss-dev-baloo-2-medium-21-6-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-baloo-2-medium-21-6-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-2-medium-21-6-line-height);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 0;
+  -webkit-box-orient: vertical;
+  font-style: var(--moderncss-dev-baloo-2-medium-21-6-font-style);
+}
+
+.moderncss-dev-by .paragraph {
+  display: inline-flex;
+  flex-direction: column;
+  height: 146.95px;
+  align-items: center;
+  padding: 0px 4.67px 0px 4.66px;
+  position: relative;
+}
+
+.moderncss-dev-by .text-wrapper-16 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--moderncssdevfrench-gray);
+  font-size: 15.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 29.4px;
+  white-space: nowrap;
+}
+
+.moderncss-dev-by .companion-site {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -0.03px;
+  margin-top: -0.03px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--moderncssdevfrench-gray);
+  font-size: 15.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 29.4px;
+}
+
+.moderncss-dev-by .text-wrapper-17 {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #c5c5ce;
+  font-size: 15.7px;
+  letter-spacing: 0;
+  line-height: 29.4px;
+}
+
+.moderncss-dev-by .text-wrapper-18 {
+  font-weight: var(--moderncss-dev-inter-bold-15-75-font-weight);
+  font-family: var(--moderncss-dev-inter-bold-15-75-font-family);
+  font-style: var(--moderncss-dev-inter-bold-15-75-font-style);
+  letter-spacing: var(--moderncss-dev-inter-bold-15-75-letter-spacing);
+  line-height: var(--moderncss-dev-inter-bold-15-75-line-height);
+  font-size: var(--moderncss-dev-inter-bold-15-75-font-size);
+}
+
+.moderncss-dev-by .link-5 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 29.44px;
+  align-items: center;
+  position: relative;
+  border-radius: 2.76px;
+}
+
+.moderncss-dev-by .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-17-68-underline-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-17-68-underline-font-weight);
+  color: var(--moderncssdevrobins-egg-blue);
+  font-size: var(--moderncss-dev-inter-regular-17-68-underline-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-inter-regular-17-68-underline-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-17-68-underline-line-height);
+  text-decoration: underline;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 0;
+  -webkit-box-orient: vertical;
+  font-style: var(--moderncss-dev-inter-regular-17-68-underline-font-style);
+}
+
+.moderncss-dev-by .item-10 {
+  width: 283px;
+  height: 499px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 1096px;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .practical-uses-of-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 21.6px 0px 0px;
+  position: relative;
+  margin-right: -0.85px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .review-the-four-best-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 235.13px;
+  align-items: flex-start;
+  padding: 0px 5.17px 0px 0px;
+  position: relative;
+  margin-right: -0.42px;
+}
+
+.moderncss-dev-by .item-11 {
+  width: 283px;
+  height: 499px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 1096px;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-14 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 204px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .modern-CSS-upgrades-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 11.26px 0px 0px;
+  position: relative;
+  margin-right: -0.51px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .accessibility-is-a-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 264.52px;
+  align-items: flex-start;
+  padding: 0px 3.39px 0px 0px;
+  position: relative;
+  margin-right: -1.64px;
+}
+
+.moderncss-dev-by .item-12 {
+  width: 283px;
+  height: 499px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 1096px;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .developing-for-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 34.69px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .how-do-we-plan-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 1.7px 0px 0px;
+  position: relative;
+  margin-right: -3.93px;
+}
+
+.moderncss-dev-by .item-13 {
+  width: 283px;
+  height: 445px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 1627px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .gradient-7 {
+  height: 446px;
+  top: -1px;
+  border-radius: 4px;
+  background: linear-gradient(
+    180deg,
+    rgb(211, 103, 193) 10%,
+    rgb(222, 223, 64) 25%,
+    rgb(98, 203, 92) 50%,
+    rgb(0, 187, 203) 75%,
+    rgb(171, 121, 214) 90%
+  );
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .gradient-8 {
+  height: 445px;
+  top: 0;
+  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 3.1%);
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .guide-to-advanced-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 2.84px 0px 0px;
+  position: relative;
+  margin-right: -0.09px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .continuing-from-part-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 5.5px 0px 0px;
+  position: relative;
+  margin-right: -17.75px;
+}
+
+.moderncss-dev-by .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-16-8-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-16-8-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-16-8-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-16-8-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-16-8-line-height);
+  font-style: var(--moderncss-dev-inter-regular-16-8-font-style);
+}
+
+.moderncss-dev-by .item-14 {
+  width: 283px;
+  height: 445px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 1627px;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .whether-you-choose-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 235.13px;
+  align-items: flex-start;
+  padding: 0px 8.25px 0px 0px;
+  position: relative;
+  margin-right: -5.5px;
+}
+
+.moderncss-dev-by .item-15 {
+  width: 283px;
+  height: 445px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 1627px;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .join-my-newsletter-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 88.17px;
+  align-items: center;
+  padding: 0px 2.5px;
+  position: relative;
+}
+
+.moderncss-dev-by .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-15-49-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-15-49-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-15-49-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-inter-regular-15-49-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-15-49-line-height);
+  font-style: var(--moderncss-dev-inter-regular-15-49-font-style);
+}
+
+.moderncss-dev-by .link-6 {
+  display: inline-flex;
+  min-width: 94.24px;
+  height: 39.77px;
+  align-items: center;
+  justify-content: center;
+  padding: 9.81px 14px 10.98px;
+  position: relative;
+  background-color: var(--moderncssdevlavender);
+  border-radius: 8px;
+}
+
+.moderncss-dev-by .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.01px;
+  font-family: var(--moderncss-dev-baloo-2-medium-16-font-family);
+  font-weight: var(--moderncss-dev-baloo-2-medium-16-font-weight);
+  color: var(--moderncssdevgrape);
+  font-size: var(--moderncss-dev-baloo-2-medium-16-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-baloo-2-medium-16-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-2-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-baloo-2-medium-16-font-style);
+}
+
+.moderncss-dev-by .item-16 {
+  width: 283px;
+  height: 445px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 1627px;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .the-CSS-methods-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 8.62px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .in-CSS-sometimes-a-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 0.84px 0px 0px;
+  position: relative;
+  margin-right: -6.07px;
+}
+
+.moderncss-dev-by .item-17 {
+  width: 283px;
+  height: 445px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 2104px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .enjoying-the-series-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 88.17px;
+  align-items: center;
+  padding: 0px 5.32px 0px 5.33px;
+  position: relative;
+}
+
+.moderncss-dev-by .link-7 {
+  display: inline-flex;
+  min-width: 94.24px;
+  height: 39.77px;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 8px;
+  padding: 9.81px 14px 11.49px;
+  position: relative;
+  border-radius: 8px;
+  border: 2px solid;
+  border-color: var(--moderncssdevwhite);
+}
+
+.moderncss-dev-by .SVG {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.moderncss-dev-by .text-wrapper-23 {
+  position: relative;
+  width: fit-content;
+  margin-top: -2.53px;
+  font-family: var(--moderncss-dev-baloo-2-medium-16-font-family);
+  font-weight: var(--moderncss-dev-baloo-2-medium-16-font-weight);
+  color: var(--moderncssdevwhite);
+  font-size: var(--moderncss-dev-baloo-2-medium-16-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-baloo-2-medium-16-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-2-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-baloo-2-medium-16-font-style);
+}
+
+.moderncss-dev-by .item-18 {
+  width: 283px;
+  height: 445px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 2104px;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-bottom: -0.01px;
+}
+
+.moderncss-dev-by .pure-CSS-shapes-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 47.32px 0px 0px;
+  position: relative;
+  margin-right: -0.57px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .modern-CSS-and-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 235.13px;
+  align-items: flex-start;
+  padding: 0px 7.43px 0px 0px;
+  position: relative;
+  margin-right: -4.68px;
+}
+
+.moderncss-dev-by .item-19 {
+  width: 283px;
+  height: 445px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 2104px;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .custom-CSS-styles-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 11.6px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .create-custom-form-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 176.34px;
+  align-items: flex-start;
+  padding: 0px 4.12px 0px 0px;
+  position: relative;
+  margin-right: -1.37px;
+}
+
+.moderncss-dev-by .item-20 {
+  width: 283px;
+  height: 445px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 2104px;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .custom-select-styles-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 21.84px 0px 0px;
+  position: relative;
+  margin-right: -0.07px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .modern-CSS-gives-us-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 235.13px;
+  align-items: flex-start;
+  padding: 0px 4.16px 0px 0px;
+  position: relative;
+  margin-right: -2.39px;
+}
+
+.moderncss-dev-by .item-21 {
+  width: 283px;
+  height: 475px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 2581px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .gradient-9 {
+  height: 476px;
+  top: -1px;
+  border-radius: 4px;
+  background: linear-gradient(
+    180deg,
+    rgb(211, 103, 193) 10%,
+    rgb(222, 223, 64) 25%,
+    rgb(98, 203, 92) 50%,
+    rgb(0, 187, 203) 75%,
+    rgb(171, 121, 214) 90%
+  );
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .gradient-10 {
+  height: 475px;
+  top: 0;
+  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.91%);
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .container-16 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 205px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .pure-CSS-custom-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 58.29px 0px 0px;
+  position: relative;
+  margin-right: -0.54px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .we-ll-create-custom-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 176.34px;
+  align-items: flex-start;
+  padding: 0px 7.6px 0px 0px;
+  position: relative;
+  margin-right: -10.85px;
+}
+
+.moderncss-dev-by .item-22 {
+  width: 283px;
+  height: 475px;
+  align-items: center;
+  padding: 72px 32px;
+  position: absolute;
+  top: 2581px;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .blockquote {
+  display: flex;
+  flex-direction: column;
+  max-width: 640.09px;
+  width: 218.75px;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 8px 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .chris-c-jpg {
+  position: relative;
+  max-width: 218.75px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  background-image: url(./img/chris-c-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.moderncss-dev-by .this-is-a-hell-of-a-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 88.17px;
+  align-items: center;
+  padding: 0px 8.35px;
+  position: relative;
+}
+
+.moderncss-dev-by .this-is-a-hell-of-a {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-15-75-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-15-75-font-weight);
+  color: var(--moderncssdevorchid);
+  font-size: var(--moderncss-dev-inter-regular-15-75-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-inter-regular-15-75-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-15-75-line-height);
+  font-style: var(--moderncss-dev-inter-regular-15-75-font-style);
+}
+
+.moderncss-dev-by .footer {
+  display: inline-flex;
+  flex-direction: column;
+  height: 46.72px;
+  align-items: center;
+  padding: 10.98px 0px 12.7px;
+  position: relative;
+}
+
+.moderncss-dev-by .cite {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .chris-coyier {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--moderncssdevwhite);
+  font-size: 13.7px;
+  text-align: center;
+  letter-spacing: 0.38px;
+  line-height: 23px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.moderncss-dev-by .text-wrapper-24 {
+  font-style: italic;
+  letter-spacing: 0.05px;
+}
+
+.moderncss-dev-by .text-wrapper-25 {
+  font-style: italic;
+  letter-spacing: 0.05px;
+  text-decoration: underline;
+}
+
+.moderncss-dev-by .item-23 {
+  width: 283px;
+  height: 475px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 2581px;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .link-8 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 21.93px 0px 0px;
+  position: relative;
+  margin-right: -0.18px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .learn-to-create-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 176.34px;
+  align-items: flex-start;
+  padding: 0px 17.82px 0px 0px;
+  position: relative;
+  margin-right: -20.07px;
+}
+
+.moderncss-dev-by .item-24 {
+  width: 283px;
+  height: 475px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 2581px;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16.01px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .container-18 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 208px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .announcing-style-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 29.77px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .learn-about-style-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 176.34px;
+  align-items: flex-start;
+  padding: 0px 3.16px 0px 0px;
+  position: relative;
+  margin-right: -6.39px;
+}
+
+.moderncss-dev-by .item-25 {
+  width: 283px;
+  height: 470px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 3087px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .gradient-11 {
+  height: 471px;
+  top: -1px;
+  border-radius: 4px;
+  background: linear-gradient(
+    180deg,
+    rgb(211, 103, 193) 10%,
+    rgb(222, 223, 64) 25%,
+    rgb(98, 203, 92) 50%,
+    rgb(0, 187, 203) 75%,
+    rgb(171, 121, 214) 90%
+  );
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .gradient-12 {
+  height: 470px;
+  top: 0;
+  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 2.94%);
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .container-19 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16.01px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-bottom: -0.01px;
+}
+
+.moderncss-dev-by .element-popular-website-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 25.1px 0px 0px;
+  position: relative;
+  margin-right: -0.35px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .this-episode-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 235.13px;
+  align-items: flex-start;
+  padding: 0px 0.75px 0px 0px;
+  position: relative;
+  margin-right: -5px;
+}
+
+.moderncss-dev-by .item-26 {
+  width: 283px;
+  height: 470px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 3087px;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-20 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 206px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .element-CSS-grid-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 12.43px 0px 0px;
+  position: relative;
+  margin-right: -0.68px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .learn-three-powerful-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 4.12px 0px 0px;
+  position: relative;
+  margin-right: -8.37px;
+}
+
+.moderncss-dev-by .item-27 {
+  width: 283px;
+  height: 470px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 3087px;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .expanded-use-of-box-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 6.9px 0px 0px;
+  position: relative;
+  margin-right: -0.15px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .this-episode-will-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 8.15px 0px 0px;
+  position: relative;
+  margin-right: -11.4px;
+}
+
+.moderncss-dev-by .item-28 {
+  width: 283px;
+  height: 470px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 3087px;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .link-9 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 43.77px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .using-grid-and-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 1.27px 0px 0px;
+  position: relative;
+  margin-right: -11.5px;
+}
+
+.moderncss-dev-by .using-grid-and {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-16-27-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-16-27-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-16-27-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-16-27-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-16-27-line-height);
+  font-style: var(--moderncss-dev-inter-regular-16-27-font-style);
+}
+
+.moderncss-dev-by .item-29 {
+  width: 283px;
+  height: 470px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 3589px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .generating-font-size-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 2.98px 0px 0px;
+  position: relative;
+  margin-right: -0.23px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .let-s-take-the-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 176.34px;
+  align-items: flex-start;
+  padding: 0px 3.93px 0px 0px;
+  position: relative;
+  margin-right: -7.18px;
+}
+
+.moderncss-dev-by .item-30 {
+  width: 283px;
+  height: 470px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 3589px;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-21 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 211px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .resource-the-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 44.84px 0px 0px;
+  position: relative;
+  margin-right: -0.09px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .this-resource-covers-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 235.13px;
+  align-items: flex-start;
+  padding: 0px 3.87px 0px 0px;
+  position: relative;
+  margin-right: -14.12px;
+}
+
+.moderncss-dev-by .text-wrapper-26 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-16-54-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-16-54-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-16-54-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-16-54-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-16-54-line-height);
+  font-style: var(--moderncss-dev-inter-regular-16-54-font-style);
+}
+
+.moderncss-dev-by .item-31 {
+  width: 283px;
+  height: 470px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 3589px;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .icon-button-CSS-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 69.18px 0px 0px;
+  position: relative;
+  margin-right: -0.43px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .this-guide-will-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 10.29px 0px 0px;
+  position: relative;
+  margin-right: -11.54px;
+}
+
+.moderncss-dev-by .item-32 {
+  width: 283px;
+  height: 470px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 3589px;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-22 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 217px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .CSS-button-styling-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 43.95px 0px 0px;
+  position: relative;
+  margin-right: -0.18px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .container-23 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 146.95px;
+  align-items: flex-start;
+  position: relative;
+  margin-right: -1.23px;
+}
+
+.moderncss-dev-by .item-33 {
+  width: 283px;
+  height: 499px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 4091px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .solutions-to-replace-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 26.98px 0px 0px;
+  position: relative;
+  margin-right: -0.23px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .create-simplified-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 4.84px 0px 0px;
+  position: relative;
+}
+
+.moderncss-dev-by .item-34 {
+  width: 283px;
+  height: 499px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 4091px;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-24 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 220px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .CSS-only-accessible-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 13.5px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .this-technique-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 6.89px 0px 0px;
+  position: relative;
+  margin-right: -3.14px;
+}
+
+.moderncss-dev-by .item-35 {
+  width: 283px;
+  height: 499px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 4091px;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .responsive-image-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 8.76px 0px 0px;
+  position: relative;
+  margin-right: -0.01px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .container-25 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 264.52px;
+  align-items: flex-start;
+  padding: 0px 1.87px 0px 0px;
+  position: relative;
+  margin-right: -1.12px;
+}
+
+.moderncss-dev-by .item-36 {
+  width: 283px;
+  height: 499px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 4091px;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-26 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 218px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .totally-custom-list-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 39.78px 0px 0px;
+  position: relative;
+  margin-right: -0.01px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .this-tutorial-will-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 235.13px;
+  align-items: flex-start;
+  position: relative;
+  margin-right: -2.23px;
+}
+
+.moderncss-dev-by .item-37 {
+  width: 283px;
+  height: 415px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 4622px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .gradient-13 {
+  height: 416px;
+  top: -1px;
+  border-radius: 4px;
+  background: linear-gradient(
+    180deg,
+    rgb(211, 103, 193) 10%,
+    rgb(222, 223, 64) 25%,
+    rgb(98, 203, 92) 50%,
+    rgb(0, 187, 203) 75%,
+    rgb(171, 121, 214) 90%
+  );
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .gradient-14 {
+  height: 415px;
+  top: 0;
+  background: linear-gradient(180deg, rgba(30, 28, 34, 0.75) 0%, rgb(30, 28, 34) 3.32%);
+  position: absolute;
+  width: 286px;
+  left: -1px;
+  transform: rotate(-8deg);
+}
+
+.moderncss-dev-by .pure-CSS-smooth-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 37.29px 0px 0px;
+  position: relative;
+  margin-right: -0.54px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .back-to-top-links-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 205.73px;
+  align-items: flex-start;
+  padding: 0px 2.64px 0px 0px;
+  position: relative;
+}
+
+.moderncss-dev-by .back-to-top-links {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-15-49-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-15-49-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-15-49-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-15-49-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-15-49-line-height);
+  font-style: var(--moderncss-dev-inter-regular-15-49-font-style);
+}
+
+.moderncss-dev-by .item-38 {
+  width: 283px;
+  height: 415px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 4622px;
+  left: 315px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .CSS-only-full-width-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 23.35px 0px 0px;
+  position: relative;
+  margin-right: -0.6px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .let-s-look-at-how-to-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 176.34px;
+  align-items: flex-start;
+  position: relative;
+  margin-right: -16.25px;
+}
+
+.moderncss-dev-by .item-39 {
+  width: 283px;
+  height: 415px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 4622px;
+  left: 630px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .equal-height-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 49.66px;
+  align-items: flex-start;
+  padding: 0px 2.54px 0px 0px;
+  position: relative;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .review-solutions-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 117.56px;
+  align-items: flex-start;
+  padding: 0px 1.1px 0px 0px;
+  position: relative;
+  margin-right: -6.35px;
+}
+
+.moderncss-dev-by .review-solutions {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-16-14-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-16-14-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-16-14-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-16-14-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-16-14-line-height);
+  font-style: var(--moderncss-dev-inter-regular-16-14-font-style);
+}
+
+.moderncss-dev-by .item-40 {
+  width: 283px;
+  height: 415px;
+  align-items: flex-start;
+  padding: 72px 32px;
+  position: absolute;
+  top: 4622px;
+  left: 944px;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .container-27 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 51px;
+  align-items: flex-start;
+  position: absolute;
+  top: -72px;
+  left: 223px;
+  opacity: 0.65;
+}
+
+.moderncss-dev-by .keep-the-footer-at-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 74.48px;
+  align-items: flex-start;
+  padding: 0px 9.47px 0px 0px;
+  position: relative;
+  margin-right: -0.7px;
+  border-radius: 3.24px;
+}
+
+.moderncss-dev-by .floating-footers-can-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  height: 176.34px;
+  align-items: flex-start;
+  padding: 0px 2.22px 0px 0px;
+  position: relative;
+  margin-right: -16.45px;
+}
+
+.moderncss-dev-by .floating-footers-can {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-16-67-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-16-67-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-16-67-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-16-67-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-16-67-line-height);
+  font-style: var(--moderncss-dev-inter-regular-16-67-font-style);
+}
+
+.moderncss-dev-by .aside-2 {
+  display: flex;
+  flex-direction: column;
+  width: 1227.02px;
+  align-items: flex-start;
+  padding: 52px 0px 48px;
+  position: relative;
+  flex: 0 0 auto;
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-color: var(--moderncssdevfrench-gray);
+}
+
+.moderncss-dev-by .heading-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 392.15px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .text-wrapper-27 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-regular-48-font-family);
+  font-weight: var(--moderncss-dev-baloo-regular-48-font-weight);
+  color: var(--moderncssdevorchid);
+  font-size: var(--moderncss-dev-baloo-regular-48-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-baloo-regular-48-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-regular-48-line-height);
+  font-style: var(--moderncss-dev-baloo-regular-48-font-style);
+}
+
+.moderncss-dev-by .list-2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 96px;
+  padding: 48px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -7.67e-13px;
+}
+
+.moderncss-dev-by .item-41 {
+  position: relative;
+  align-self: stretch;
+  width: 345px;
+}
+
+.moderncss-dev-by .heading-3 {
+  display: flex;
+  width: 345px;
+  min-height: 86px;
+  align-items: center;
+  padding: 1.08px 0px 2.36px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.moderncss-dev-by .text-wrapper-28 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-2-medium-34-4-font-family);
+  font-weight: var(--moderncss-dev-baloo-2-medium-34-4-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-baloo-2-medium-34-4-font-size);
+  letter-spacing: var(--moderncss-dev-baloo-2-medium-34-4-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-2-medium-34-4-line-height);
+  font-style: var(--moderncss-dev-baloo-2-medium-34-4-font-style);
+}
+
+.moderncss-dev-by .container-28 {
+  display: flex;
+  flex-direction: column;
+  width: 345px;
+  align-items: flex-start;
+  padding: 0px 0px 0.71px;
+  position: absolute;
+  top: 101px;
+  left: 0;
+}
+
+.moderncss-dev-by .learn-more-about {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-17-25-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-17-25-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-17-25-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-17-25-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-17-25-line-height);
+  font-style: var(--moderncss-dev-inter-regular-17-25-font-style);
+}
+
+.moderncss-dev-by .container-29 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 345px;
+  align-items: center;
+  gap: 0px 8.01px;
+  position: absolute;
+  top: 265px;
+  left: 0;
+}
+
+.moderncss-dev-by .link-10 {
+  display: inline-flex;
+  min-width: 94.24px;
+  align-items: center;
+  justify-content: center;
+  padding: 10.8px 14px 10px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--moderncssdevlavender);
+  border-radius: 8px;
+}
+
+.moderncss-dev-by .text-wrapper-29 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-2-medium-16-font-family);
+  font-weight: var(--moderncss-dev-baloo-2-medium-16-font-weight);
+  color: var(--moderncssdevgrape);
+  font-size: var(--moderncss-dev-baloo-2-medium-16-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-baloo-2-medium-16-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-2-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-baloo-2-medium-16-font-style);
+}
+
+.moderncss-dev-by .link-11 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2.23px 0px 2.67px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 2.76px;
+}
+
+.moderncss-dev-by .text-wrapper-30 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-14-46-underline-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-14-46-underline-font-weight);
+  color: var(--moderncssdevrobins-egg-blue);
+  font-size: var(--moderncss-dev-inter-regular-14-46-underline-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-14-46-underline-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-14-46-underline-line-height);
+  text-decoration: underline;
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-inter-regular-14-46-underline-font-style);
+}
+
+.moderncss-dev-by .go-from-zero-to {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-17-11-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-17-11-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-17-11-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-17-11-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-17-11-line-height);
+  font-style: var(--moderncss-dev-inter-regular-17-11-font-style);
+}
+
+.moderncss-dev-by .item-42 {
+  width: 345.02px;
+  align-items: flex-start;
+  gap: 15.3px;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+
+.moderncss-dev-by .heading-4 {
+  display: flex;
+  min-height: 86px;
+  align-items: center;
+  padding: 21.72px 0px 23px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .text-wrapper-31 {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-baloo-2-medium-34-4-font-family);
+  font-weight: var(--moderncss-dev-baloo-2-medium-34-4-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-baloo-2-medium-34-4-font-size);
+  letter-spacing: var(--moderncss-dev-baloo-2-medium-34-4-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-2-medium-34-4-line-height);
+  font-style: var(--moderncss-dev-baloo-2-medium-34-4-font-style);
+}
+
+.moderncss-dev-by .get-caught-up-with-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.71px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .get-caught-up-with {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--moderncss-dev-inter-regular-16-96-font-family);
+  font-weight: var(--moderncss-dev-inter-regular-16-96-font-weight);
+  color: var(--moderncssdevfrench-gray);
+  font-size: var(--moderncss-dev-inter-regular-16-96-font-size);
+  letter-spacing: var(--moderncss-dev-inter-regular-16-96-letter-spacing);
+  line-height: var(--moderncss-dev-inter-regular-16-96-line-height);
+  font-style: var(--moderncss-dev-inter-regular-16-96-font-style);
+}
+
+.moderncss-dev-by .margin {
+  display: flex;
+  flex-direction: column;
+  min-height: 39.77px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 30.14px 0px 0px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.moderncss-dev-by .link-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -1.02px;
+}
+
+.moderncss-dev-by .footer-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px 346.5px 8px 346.48px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--moderncssdevmedium-red-violet);
+}
+
+.moderncss-dev-by .container-30 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1227.02px;
+  align-items: center;
+  justify-content: center;
+  gap: 0px 16px;
+  padding: 0px 204.75px 0px 204.74px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .link-moderncss-dev-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 0px 0.53px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .link-moderncss-dev {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--moderncssdevwhite);
+  font-size: 13.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 23px;
+  white-space: nowrap;
+}
+
+.moderncss-dev-by .text-wrapper-32 {
+  text-decoration: underline;
+}
+
+.moderncss-dev-by .text-wrapper-33 {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 23px;
+}
+
+.moderncss-dev-by .container-31 {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0px 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.moderncss-dev-by .img {
+  position: relative;
+  width: 32.19px;
+  height: 32.19px;
+}
+
+.moderncss-dev-by .link-12 {
+  display: inline-flex;
+  min-width: 94.24px;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 8px;
+  padding: 10.8px 14px 10px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 8px;
+  border: 2px solid;
+  border-color: var(--moderncssdevwhite);
+}
+
+.moderncss-dev-by .text-wrapper-34 {
+  position: relative;
+  width: fit-content;
+  margin-top: -2px;
+  font-family: var(--moderncss-dev-baloo-2-medium-16-font-family);
+  font-weight: var(--moderncss-dev-baloo-2-medium-16-font-weight);
+  color: var(--moderncssdevwhite);
+  font-size: var(--moderncss-dev-baloo-2-medium-16-font-size);
+  text-align: center;
+  letter-spacing: var(--moderncss-dev-baloo-2-medium-16-letter-spacing);
+  line-height: var(--moderncss-dev-baloo-2-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--moderncss-dev-baloo-2-medium-16-font-style);
+}
